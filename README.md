@@ -41,7 +41,7 @@ pip install matplotlib
 - train_nn.py  # nn模型训练主程序
 - train_cnn.py  # cnn模型训练主程序
 - cnn_cifar10.pth  # 保存cnn模型参数
-- test.py # 模型测试主程序
+- test.py  # 模型测试主程序
 - data_loader.py  # 读取数据集的函数
 - para_search.py  # 模型参数探索主程序
 - para_search.log  # 模型参数探索的日志记录
