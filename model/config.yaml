@@ -1,0 +1,8 @@
+activation_functions:
+- leaky_relu
+- leaky_relu
+hidden_sizes:
+- 512
+- 256
+lambda_reg: 0.01
+learning_rate: 0.01

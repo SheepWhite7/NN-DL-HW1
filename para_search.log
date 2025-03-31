@@ -1,0 +1,1032 @@
+30-Mar-25 13:13:14 - ['relu', 'relu']
+30-Mar-25 13:13:14 - lr:0.01, hidden_sizes:[64, 32], lambda_reg:0.01
+30-Mar-25 13:13:25 - Epoch 1/20, Loss: 2.4552743436420488, Validation Accuracy: 16.13
+30-Mar-25 13:13:35 - Epoch 2/20, Loss: 2.219569866168995, Validation Accuracy: 22.52
+30-Mar-25 13:13:46 - Epoch 3/20, Loss: 2.015537680186312, Validation Accuracy: 29.56
+30-Mar-25 13:13:57 - Epoch 4/20, Loss: 1.907705333598895, Validation Accuracy: 34.01
+30-Mar-25 13:14:08 - Epoch 5/20, Loss: 1.8319649930244672, Validation Accuracy: 37.61
+30-Mar-25 13:14:18 - Epoch 6/20, Loss: 1.7755038208222729, Validation Accuracy: 39.89
+30-Mar-25 13:14:28 - Epoch 7/20, Loss: 1.732578617150911, Validation Accuracy: 41.55
+30-Mar-25 13:14:38 - Epoch 8/20, Loss: 1.7018046301346221, Validation Accuracy: 43.01
+30-Mar-25 13:14:48 - Epoch 9/20, Loss: 1.6798432376266708, Validation Accuracy: 44.18
+30-Mar-25 13:14:59 - Epoch 10/20, Loss: 1.6633839794205683, Validation Accuracy: 44.78
+30-Mar-25 13:15:09 - Epoch 11/20, Loss: 1.6506961508562574, Validation Accuracy: 45.46
+30-Mar-25 13:15:19 - Epoch 12/20, Loss: 1.6408863544850465, Validation Accuracy: 46.160000000000004
+30-Mar-25 13:15:30 - Epoch 13/20, Loss: 1.6327295448750747, Validation Accuracy: 46.160000000000004
+30-Mar-25 13:15:40 - Epoch 14/20, Loss: 1.6261408436193832, Validation Accuracy: 46.56
+30-Mar-25 13:15:50 - Epoch 15/20, Loss: 1.6202746309936407, Validation Accuracy: 46.92
+30-Mar-25 13:16:00 - Epoch 16/20, Loss: 1.615534571214587, Validation Accuracy: 47.17
+30-Mar-25 13:16:11 - Epoch 17/20, Loss: 1.61123067956639, Validation Accuracy: 47.3
+30-Mar-25 13:16:21 - Epoch 18/20, Loss: 1.6074348519054655, Validation Accuracy: 47.54
+30-Mar-25 13:16:32 - Epoch 19/20, Loss: 1.6041411031126476, Validation Accuracy: 47.760000000000005
+30-Mar-25 13:16:43 - Epoch 20/20, Loss: 1.6008687442313931, Validation Accuracy: 47.93
+30-Mar-25 13:16:43 - ------------------------------------------------------------------
+30-Mar-25 13:16:43 - lr:0.01, hidden_sizes:[64, 64], lambda_reg:0.01
+30-Mar-25 13:16:54 - Epoch 1/20, Loss: 2.439913514530758, Validation Accuracy: 17.2
+30-Mar-25 13:17:05 - Epoch 2/20, Loss: 2.171926642034252, Validation Accuracy: 27.639999999999997
+30-Mar-25 13:17:16 - Epoch 3/20, Loss: 1.9650570959075182, Validation Accuracy: 32.78
+30-Mar-25 13:17:26 - Epoch 4/20, Loss: 1.8684982280531284, Validation Accuracy: 36.29
+30-Mar-25 13:17:36 - Epoch 5/20, Loss: 1.8071869222643964, Validation Accuracy: 39.269999999999996
+30-Mar-25 13:17:47 - Epoch 6/20, Loss: 1.749395947558217, Validation Accuracy: 41.4
+30-Mar-25 13:17:58 - Epoch 7/20, Loss: 1.711761721191247, Validation Accuracy: 43.14
+30-Mar-25 13:18:08 - Epoch 8/20, Loss: 1.685952423170784, Validation Accuracy: 44.519999999999996
+30-Mar-25 13:18:18 - Epoch 9/20, Loss: 1.6670149930286982, Validation Accuracy: 45.47
+30-Mar-25 13:18:29 - Epoch 10/20, Loss: 1.652749144584066, Validation Accuracy: 46.21
+30-Mar-25 13:18:39 - Epoch 11/20, Loss: 1.6411710501129049, Validation Accuracy: 46.7
+30-Mar-25 13:18:50 - Epoch 12/20, Loss: 1.632092435165156, Validation Accuracy: 47.07
+30-Mar-25 13:19:01 - Epoch 13/20, Loss: 1.6244969732296235, Validation Accuracy: 47.260000000000005
+30-Mar-25 13:19:11 - Epoch 14/20, Loss: 1.6178256735853485, Validation Accuracy: 47.78
+30-Mar-25 13:19:21 - Epoch 15/20, Loss: 1.612187163095916, Validation Accuracy: 48.04
+30-Mar-25 13:19:32 - Epoch 16/20, Loss: 1.6072903428541572, Validation Accuracy: 48.28
+30-Mar-25 13:19:42 - Epoch 17/20, Loss: 1.6029293784008756, Validation Accuracy: 48.69
+30-Mar-25 13:19:53 - Epoch 18/20, Loss: 1.5993685685428412, Validation Accuracy: 48.64
+30-Mar-25 13:20:03 - Epoch 19/20, Loss: 1.5960728180031973, Validation Accuracy: 48.870000000000005
+30-Mar-25 13:20:14 - Epoch 20/20, Loss: 1.593264794405201, Validation Accuracy: 49.18
+30-Mar-25 13:20:14 - ------------------------------------------------------------------
+30-Mar-25 13:20:14 - lr:0.01, hidden_sizes:[128, 64], lambda_reg:0.01
+30-Mar-25 13:20:31 - Epoch 1/20, Loss: 2.5539414321184375, Validation Accuracy: 20.64
+30-Mar-25 13:20:47 - Epoch 2/20, Loss: 2.1855187138560197, Validation Accuracy: 29.470000000000002
+30-Mar-25 13:21:03 - Epoch 3/20, Loss: 1.9918196786891162, Validation Accuracy: 34.57
+30-Mar-25 13:21:19 - Epoch 4/20, Loss: 1.8724388401701497, Validation Accuracy: 38.59
+30-Mar-25 13:21:37 - Epoch 5/20, Loss: 1.7858397043689997, Validation Accuracy: 41.13
+30-Mar-25 13:21:54 - Epoch 6/20, Loss: 1.7295136348304287, Validation Accuracy: 42.96
+30-Mar-25 13:22:11 - Epoch 7/20, Loss: 1.6915907203518783, Validation Accuracy: 44.43
+30-Mar-25 13:22:28 - Epoch 8/20, Loss: 1.6642195093263479, Validation Accuracy: 45.76
+30-Mar-25 13:22:45 - Epoch 9/20, Loss: 1.6446236260279763, Validation Accuracy: 46.739999999999995
+30-Mar-25 13:23:02 - Epoch 10/20, Loss: 1.6305706284226784, Validation Accuracy: 47.54
+30-Mar-25 13:23:19 - Epoch 11/20, Loss: 1.6196893483589074, Validation Accuracy: 47.94
+30-Mar-25 13:23:36 - Epoch 12/20, Loss: 1.6111661063680645, Validation Accuracy: 48.309999999999995
+30-Mar-25 13:23:53 - Epoch 13/20, Loss: 1.604018479970317, Validation Accuracy: 48.71
+30-Mar-25 13:24:10 - Epoch 14/20, Loss: 1.598125176880957, Validation Accuracy: 48.8
+30-Mar-25 13:24:26 - Epoch 15/20, Loss: 1.5930493796442382, Validation Accuracy: 49.28
+30-Mar-25 13:24:43 - Epoch 16/20, Loss: 1.5887814429427636, Validation Accuracy: 49.45
+30-Mar-25 13:24:59 - Epoch 17/20, Loss: 1.584984387220685, Validation Accuracy: 49.53
+30-Mar-25 13:25:15 - Epoch 18/20, Loss: 1.581788412078265, Validation Accuracy: 49.71
+30-Mar-25 13:25:32 - Epoch 19/20, Loss: 1.5787673302577143, Validation Accuracy: 49.8
+30-Mar-25 13:25:49 - Epoch 20/20, Loss: 1.5761737220895926, Validation Accuracy: 49.91
+30-Mar-25 13:25:49 - ------------------------------------------------------------------
+30-Mar-25 13:25:49 - lr:0.01, hidden_sizes:[128, 128], lambda_reg:0.01
+30-Mar-25 13:26:06 - Epoch 1/20, Loss: 2.5452228550212985, Validation Accuracy: 22.689999999999998
+30-Mar-25 13:26:23 - Epoch 2/20, Loss: 2.1501751563300844, Validation Accuracy: 32.23
+30-Mar-25 13:26:40 - Epoch 3/20, Loss: 1.956936107224594, Validation Accuracy: 36.42
+30-Mar-25 13:26:56 - Epoch 4/20, Loss: 1.8477828402003666, Validation Accuracy: 39.64
+30-Mar-25 13:27:14 - Epoch 5/20, Loss: 1.7685215452599277, Validation Accuracy: 42.13
+30-Mar-25 13:27:31 - Epoch 6/20, Loss: 1.7181534405471623, Validation Accuracy: 43.72
+30-Mar-25 13:27:48 - Epoch 7/20, Loss: 1.6842613990907342, Validation Accuracy: 44.92
+30-Mar-25 13:28:06 - Epoch 8/20, Loss: 1.6594681603632284, Validation Accuracy: 45.989999999999995
+30-Mar-25 13:28:23 - Epoch 9/20, Loss: 1.640666547205516, Validation Accuracy: 46.64
+30-Mar-25 13:28:39 - Epoch 10/20, Loss: 1.6269337292007482, Validation Accuracy: 47.199999999999996
+30-Mar-25 13:28:56 - Epoch 11/20, Loss: 1.616223748376914, Validation Accuracy: 47.64
+30-Mar-25 13:29:13 - Epoch 12/20, Loss: 1.6076349493297222, Validation Accuracy: 47.99
+30-Mar-25 13:29:29 - Epoch 13/20, Loss: 1.6007079724879396, Validation Accuracy: 48.28
+30-Mar-25 13:29:45 - Epoch 14/20, Loss: 1.5948230048924992, Validation Accuracy: 48.77
+30-Mar-25 13:30:03 - Epoch 15/20, Loss: 1.5898445025007808, Validation Accuracy: 49.03
+30-Mar-25 13:30:19 - Epoch 16/20, Loss: 1.5853524945675164, Validation Accuracy: 49.25
+30-Mar-25 13:30:37 - Epoch 17/20, Loss: 1.581786601250259, Validation Accuracy: 49.5
+30-Mar-25 13:30:54 - Epoch 18/20, Loss: 1.5786360500788648, Validation Accuracy: 49.7
+30-Mar-25 13:31:11 - Epoch 19/20, Loss: 1.5756918472083974, Validation Accuracy: 49.87
+30-Mar-25 13:31:28 - Epoch 20/20, Loss: 1.5730636613864728, Validation Accuracy: 49.9
+30-Mar-25 13:31:28 - ------------------------------------------------------------------
+30-Mar-25 13:31:28 - lr:0.01, hidden_sizes:[256, 128], lambda_reg:0.01
+30-Mar-25 13:31:55 - Epoch 1/20, Loss: 2.8380684648629058, Validation Accuracy: 26.669999999999998
+30-Mar-25 13:32:23 - Epoch 2/20, Loss: 2.3011523795298556, Validation Accuracy: 34.4
+30-Mar-25 13:32:51 - Epoch 3/20, Loss: 2.0391688073437755, Validation Accuracy: 39.32
+30-Mar-25 13:33:19 - Epoch 4/20, Loss: 1.880584261038904, Validation Accuracy: 41.99
+30-Mar-25 13:33:48 - Epoch 5/20, Loss: 1.7830555780870199, Validation Accuracy: 44.07
+30-Mar-25 13:34:15 - Epoch 6/20, Loss: 1.7193722048311455, Validation Accuracy: 45.51
+30-Mar-25 13:34:42 - Epoch 7/20, Loss: 1.6779001248500085, Validation Accuracy: 46.58
+30-Mar-25 13:35:10 - Epoch 8/20, Loss: 1.6501052963978269, Validation Accuracy: 47.29
+30-Mar-25 13:35:39 - Epoch 9/20, Loss: 1.630520403237409, Validation Accuracy: 47.760000000000005
+30-Mar-25 13:36:07 - Epoch 10/20, Loss: 1.6162876658686047, Validation Accuracy: 48.24
+30-Mar-25 13:36:34 - Epoch 11/20, Loss: 1.6055224543158135, Validation Accuracy: 48.46
+30-Mar-25 13:37:02 - Epoch 12/20, Loss: 1.59729075690343, Validation Accuracy: 48.8
+30-Mar-25 13:37:31 - Epoch 13/20, Loss: 1.5906308496603097, Validation Accuracy: 49.16
+30-Mar-25 13:37:58 - Epoch 14/20, Loss: 1.5848340739012658, Validation Accuracy: 49.54
+30-Mar-25 13:38:26 - Epoch 15/20, Loss: 1.5803204740678236, Validation Accuracy: 49.82
+30-Mar-25 13:38:55 - Epoch 16/20, Loss: 1.576307138612984, Validation Accuracy: 49.84
+30-Mar-25 13:39:23 - Epoch 17/20, Loss: 1.5728398450884007, Validation Accuracy: 49.980000000000004
+30-Mar-25 13:39:50 - Epoch 18/20, Loss: 1.5698311148140438, Validation Accuracy: 50.06
+30-Mar-25 13:40:17 - Epoch 19/20, Loss: 1.5669810266393596, Validation Accuracy: 50.46000000000001
+30-Mar-25 13:40:45 - Epoch 20/20, Loss: 1.56435805733581, Validation Accuracy: 50.349999999999994
+30-Mar-25 13:40:45 - ------------------------------------------------------------------
+30-Mar-25 13:40:45 - lr:0.01, hidden_sizes:[256, 256], lambda_reg:0.01
+30-Mar-25 13:41:13 - Epoch 1/20, Loss: 2.818138862592269, Validation Accuracy: 29.04
+30-Mar-25 13:41:41 - Epoch 2/20, Loss: 2.2848143431833723, Validation Accuracy: 36.27
+30-Mar-25 13:42:10 - Epoch 3/20, Loss: 2.0278758590005794, Validation Accuracy: 40.07
+30-Mar-25 13:42:38 - Epoch 4/20, Loss: 1.873795464497543, Validation Accuracy: 42.44
+30-Mar-25 13:43:08 - Epoch 5/20, Loss: 1.7774142432628235, Validation Accuracy: 44.690000000000005
+30-Mar-25 13:43:36 - Epoch 6/20, Loss: 1.7153955065810707, Validation Accuracy: 45.98
+30-Mar-25 13:44:04 - Epoch 7/20, Loss: 1.6746163042438797, Validation Accuracy: 46.85
+30-Mar-25 13:44:34 - Epoch 8/20, Loss: 1.6469728802054222, Validation Accuracy: 47.39
+30-Mar-25 13:45:04 - Epoch 9/20, Loss: 1.6276830342181485, Validation Accuracy: 47.85
+30-Mar-25 13:45:34 - Epoch 10/20, Loss: 1.6136017123148085, Validation Accuracy: 48.19
+30-Mar-25 13:46:05 - Epoch 11/20, Loss: 1.6029106580410903, Validation Accuracy: 48.75
+30-Mar-25 13:46:35 - Epoch 12/20, Loss: 1.5949397533936576, Validation Accuracy: 49.08
+30-Mar-25 13:47:05 - Epoch 13/20, Loss: 1.5883155661558714, Validation Accuracy: 49.17
+30-Mar-25 13:47:36 - Epoch 14/20, Loss: 1.582830816295511, Validation Accuracy: 49.220000000000006
+30-Mar-25 13:48:07 - Epoch 15/20, Loss: 1.578414935734545, Validation Accuracy: 49.53
+30-Mar-25 13:48:38 - Epoch 16/20, Loss: 1.5745583124613252, Validation Accuracy: 49.88
+30-Mar-25 13:49:08 - Epoch 17/20, Loss: 1.5710446996011465, Validation Accuracy: 50.05
+30-Mar-25 13:49:38 - Epoch 18/20, Loss: 1.5682054945241668, Validation Accuracy: 50.13999999999999
+30-Mar-25 13:50:09 - Epoch 19/20, Loss: 1.5656807011060065, Validation Accuracy: 50.2
+30-Mar-25 13:50:39 - Epoch 20/20, Loss: 1.5631477895251877, Validation Accuracy: 50.28
+30-Mar-25 13:50:39 - ------------------------------------------------------------------
+30-Mar-25 13:50:39 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.01
+30-Mar-25 13:51:43 - Epoch 1/20, Loss: 3.4502938288014158, Validation Accuracy: 31.009999999999998
+30-Mar-25 13:52:46 - Epoch 2/20, Loss: 2.659497594385349, Validation Accuracy: 38.080000000000005
+30-Mar-25 13:53:48 - Epoch 3/20, Loss: 2.248812809384932, Validation Accuracy: 41.94
+30-Mar-25 13:54:50 - Epoch 4/20, Loss: 2.0048168444188863, Validation Accuracy: 44.1
+30-Mar-25 13:55:53 - Epoch 5/20, Loss: 1.8537314467356416, Validation Accuracy: 45.72
+30-Mar-25 13:56:55 - Epoch 6/20, Loss: 1.7589927162739907, Validation Accuracy: 47.07
+30-Mar-25 13:57:57 - Epoch 7/20, Loss: 1.6983940481462876, Validation Accuracy: 47.64
+30-Mar-25 13:59:00 - Epoch 8/20, Loss: 1.658808331440312, Validation Accuracy: 48.1
+30-Mar-25 14:00:03 - Epoch 9/20, Loss: 1.6321907401076037, Validation Accuracy: 48.5
+30-Mar-25 14:01:06 - Epoch 10/20, Loss: 1.6139232480128816, Validation Accuracy: 48.99
+30-Mar-25 14:02:09 - Epoch 11/20, Loss: 1.6009207331329696, Validation Accuracy: 49.26
+30-Mar-25 14:03:10 - Epoch 12/20, Loss: 1.5913700519580247, Validation Accuracy: 49.55
+30-Mar-25 14:04:14 - Epoch 13/20, Loss: 1.5841279605373877, Validation Accuracy: 49.68
+30-Mar-25 14:05:16 - Epoch 14/20, Loss: 1.5783750370124716, Validation Accuracy: 49.71
+30-Mar-25 14:06:19 - Epoch 15/20, Loss: 1.5735499945770195, Validation Accuracy: 49.93
+30-Mar-25 14:07:22 - Epoch 16/20, Loss: 1.5696681559039845, Validation Accuracy: 50.019999999999996
+30-Mar-25 14:08:25 - Epoch 17/20, Loss: 1.5663404747855492, Validation Accuracy: 50.260000000000005
+30-Mar-25 14:09:28 - Epoch 18/20, Loss: 1.5634104661435935, Validation Accuracy: 50.3
+30-Mar-25 14:10:31 - Epoch 19/20, Loss: 1.560663619805532, Validation Accuracy: 50.370000000000005
+30-Mar-25 14:11:32 - Epoch 20/20, Loss: 1.558362244299767, Validation Accuracy: 50.56
+30-Mar-25 14:11:32 - ------------------------------------------------------------------
+30-Mar-25 14:11:32 - lr:0.01, hidden_sizes:[512, 512], lambda_reg:0.01
+30-Mar-25 14:12:35 - Epoch 1/20, Loss: 3.504222999374516, Validation Accuracy: 33.29
+30-Mar-25 14:13:39 - Epoch 2/20, Loss: 2.6897504386524513, Validation Accuracy: 39.379999999999995
+30-Mar-25 14:14:42 - Epoch 3/20, Loss: 2.2677376926536983, Validation Accuracy: 42.59
+30-Mar-25 14:15:47 - Epoch 4/20, Loss: 2.0151606767438017, Validation Accuracy: 44.66
+30-Mar-25 14:16:50 - Epoch 5/20, Loss: 1.859079341787267, Validation Accuracy: 46.339999999999996
+30-Mar-25 14:17:54 - Epoch 6/20, Loss: 1.7616107833882249, Validation Accuracy: 47.24
+30-Mar-25 14:18:58 - Epoch 7/20, Loss: 1.699404393815923, Validation Accuracy: 47.93
+30-Mar-25 14:20:02 - Epoch 8/20, Loss: 1.6588145159419636, Validation Accuracy: 48.5
+30-Mar-25 14:21:06 - Epoch 9/20, Loss: 1.6316364244332326, Validation Accuracy: 48.78
+30-Mar-25 14:22:09 - Epoch 10/20, Loss: 1.6129235594945517, Validation Accuracy: 49.309999999999995
+30-Mar-25 14:23:13 - Epoch 11/20, Loss: 1.599674660751639, Validation Accuracy: 49.47
+30-Mar-25 14:24:16 - Epoch 12/20, Loss: 1.5900147511103808, Validation Accuracy: 49.669999999999995
+30-Mar-25 14:25:20 - Epoch 13/20, Loss: 1.5828626892139934, Validation Accuracy: 49.91
+30-Mar-25 14:26:24 - Epoch 14/20, Loss: 1.5770868362678483, Validation Accuracy: 50.13999999999999
+30-Mar-25 14:27:28 - Epoch 15/20, Loss: 1.5724110306600199, Validation Accuracy: 50.339999999999996
+30-Mar-25 14:28:31 - Epoch 16/20, Loss: 1.5684106090292897, Validation Accuracy: 50.27
+30-Mar-25 14:29:35 - Epoch 17/20, Loss: 1.565296632149421, Validation Accuracy: 50.44
+30-Mar-25 14:30:38 - Epoch 18/20, Loss: 1.5623987706465534, Validation Accuracy: 50.63999999999999
+30-Mar-25 14:31:42 - Epoch 19/20, Loss: 1.5599104357717166, Validation Accuracy: 50.73
+30-Mar-25 14:32:46 - Epoch 20/20, Loss: 1.5572815239768762, Validation Accuracy: 50.86000000000001
+30-Mar-25 14:32:46 - ------------------------------------------------------------------
+30-Mar-25 01:40:24 - ['leaky_relu', 'leaky_relu']
+30-Mar-25 01:40:24 - lr:0.01, hidden_sizes:[64, 32], lambda_reg:0.01
+30-Mar-25 01:40:36 - Epoch 1/20, Loss: 2.4583563586484654, Validation Accuracy: 15.950000000000001
+30-Mar-25 01:40:47 - Epoch 2/20, Loss: 2.2687994393795745, Validation Accuracy: 23.549999999999997
+30-Mar-25 01:40:58 - Epoch 3/20, Loss: 2.0233352317537245, Validation Accuracy: 29.799999999999997
+30-Mar-25 01:41:08 - Epoch 4/20, Loss: 1.9051680973878182, Validation Accuracy: 34.11
+30-Mar-25 01:41:18 - Epoch 5/20, Loss: 1.8406460080646032, Validation Accuracy: 36.52
+30-Mar-25 01:41:29 - Epoch 6/20, Loss: 1.7910423067366952, Validation Accuracy: 39.7
+30-Mar-25 01:41:39 - Epoch 7/20, Loss: 1.7421987770953684, Validation Accuracy: 41.33
+30-Mar-25 01:41:50 - Epoch 8/20, Loss: 1.7079744115191013, Validation Accuracy: 42.66
+30-Mar-25 01:42:00 - Epoch 9/20, Loss: 1.6837864210269702, Validation Accuracy: 43.91
+30-Mar-25 01:42:11 - Epoch 10/20, Loss: 1.6656576454289755, Validation Accuracy: 44.64
+30-Mar-25 01:42:22 - Epoch 11/20, Loss: 1.6512858249497797, Validation Accuracy: 45.43
+30-Mar-25 01:42:32 - Epoch 12/20, Loss: 1.6402527456316858, Validation Accuracy: 45.89
+30-Mar-25 01:42:43 - Epoch 13/20, Loss: 1.631136913106206, Validation Accuracy: 46.42
+30-Mar-25 01:42:53 - Epoch 14/20, Loss: 1.623681925523236, Validation Accuracy: 46.81
+30-Mar-25 01:43:04 - Epoch 15/20, Loss: 1.6167895970392703, Validation Accuracy: 47.21
+30-Mar-25 01:43:14 - Epoch 16/20, Loss: 1.6107118563433727, Validation Accuracy: 47.83
+30-Mar-25 01:43:24 - Epoch 17/20, Loss: 1.6055444618308772, Validation Accuracy: 48.089999999999996
+30-Mar-25 01:43:35 - Epoch 18/20, Loss: 1.601119405468443, Validation Accuracy: 48.41
+30-Mar-25 01:43:46 - Epoch 19/20, Loss: 1.597713982907132, Validation Accuracy: 48.68
+30-Mar-25 01:43:57 - Epoch 20/20, Loss: 1.594450148905262, Validation Accuracy: 48.71
+30-Mar-25 01:43:57 - ------------------------------------------------------------------
+30-Mar-25 01:43:57 - lr:0.01, hidden_sizes:[64, 64], lambda_reg:0.01
+30-Mar-25 01:44:08 - Epoch 1/20, Loss: 2.4520186320645365, Validation Accuracy: 16.33
+30-Mar-25 01:44:19 - Epoch 2/20, Loss: 2.191621372595659, Validation Accuracy: 25.95
+30-Mar-25 01:44:29 - Epoch 3/20, Loss: 1.9810808824762907, Validation Accuracy: 32.48
+30-Mar-25 01:44:40 - Epoch 4/20, Loss: 1.8736663975445267, Validation Accuracy: 36.34
+30-Mar-25 01:44:51 - Epoch 5/20, Loss: 1.8021843787757557, Validation Accuracy: 39.53
+30-Mar-25 01:45:02 - Epoch 6/20, Loss: 1.7465379305859536, Validation Accuracy: 41.510000000000005
+30-Mar-25 01:45:12 - Epoch 7/20, Loss: 1.711587756243756, Validation Accuracy: 42.85
+30-Mar-25 01:45:23 - Epoch 8/20, Loss: 1.688385660244141, Validation Accuracy: 43.91
+30-Mar-25 01:45:34 - Epoch 9/20, Loss: 1.6711198568036472, Validation Accuracy: 44.940000000000005
+30-Mar-25 01:45:45 - Epoch 10/20, Loss: 1.6571645453276094, Validation Accuracy: 45.78
+30-Mar-25 01:45:56 - Epoch 11/20, Loss: 1.6455607937583263, Validation Accuracy: 46.22
+30-Mar-25 01:46:07 - Epoch 12/20, Loss: 1.6357731780761948, Validation Accuracy: 46.78
+30-Mar-25 01:46:18 - Epoch 13/20, Loss: 1.627595690946372, Validation Accuracy: 47.17
+30-Mar-25 01:46:29 - Epoch 14/20, Loss: 1.620562968628984, Validation Accuracy: 47.49
+30-Mar-25 01:46:40 - Epoch 15/20, Loss: 1.614759290714119, Validation Accuracy: 47.96
+30-Mar-25 01:46:51 - Epoch 16/20, Loss: 1.6095567086483964, Validation Accuracy: 48.199999999999996
+30-Mar-25 01:47:02 - Epoch 17/20, Loss: 1.6054178502498102, Validation Accuracy: 48.47
+30-Mar-25 01:47:13 - Epoch 18/20, Loss: 1.6017686175783659, Validation Accuracy: 48.58
+30-Mar-25 01:47:23 - Epoch 19/20, Loss: 1.5985032051019736, Validation Accuracy: 48.870000000000005
+30-Mar-25 01:47:34 - Epoch 20/20, Loss: 1.5958300274658912, Validation Accuracy: 48.93
+30-Mar-25 01:47:34 - ------------------------------------------------------------------
+30-Mar-25 01:47:34 - lr:0.01, hidden_sizes:[128, 64], lambda_reg:0.01
+30-Mar-25 01:47:51 - Epoch 1/20, Loss: 2.5766086602821017, Validation Accuracy: 19.3
+30-Mar-25 01:48:08 - Epoch 2/20, Loss: 2.210858016969777, Validation Accuracy: 29.07
+30-Mar-25 01:48:25 - Epoch 3/20, Loss: 1.9986737916366664, Validation Accuracy: 34.9
+30-Mar-25 01:48:42 - Epoch 4/20, Loss: 1.8747846376409634, Validation Accuracy: 38.690000000000005
+30-Mar-25 01:49:00 - Epoch 5/20, Loss: 1.7906986553967306, Validation Accuracy: 41.06
+30-Mar-25 01:49:18 - Epoch 6/20, Loss: 1.7329673126153258, Validation Accuracy: 43.35
+30-Mar-25 01:49:36 - Epoch 7/20, Loss: 1.6937583957031321, Validation Accuracy: 44.65
+30-Mar-25 01:49:54 - Epoch 8/20, Loss: 1.6662618868866084, Validation Accuracy: 45.67
+30-Mar-25 01:50:11 - Epoch 9/20, Loss: 1.646576914698472, Validation Accuracy: 46.42
+30-Mar-25 01:50:29 - Epoch 10/20, Loss: 1.6319282971280202, Validation Accuracy: 47.0
+30-Mar-25 01:50:46 - Epoch 11/20, Loss: 1.6209343215947885, Validation Accuracy: 47.55
+30-Mar-25 01:51:03 - Epoch 12/20, Loss: 1.6121938354020295, Validation Accuracy: 48.02
+30-Mar-25 01:51:20 - Epoch 13/20, Loss: 1.6051071762592914, Validation Accuracy: 48.43
+30-Mar-25 01:51:37 - Epoch 14/20, Loss: 1.5992615324974178, Validation Accuracy: 48.699999999999996
+30-Mar-25 01:51:54 - Epoch 15/20, Loss: 1.594112981968582, Validation Accuracy: 48.99
+30-Mar-25 01:52:12 - Epoch 16/20, Loss: 1.5899396633392666, Validation Accuracy: 48.96
+30-Mar-25 01:52:31 - Epoch 17/20, Loss: 1.5863127833152757, Validation Accuracy: 48.980000000000004
+30-Mar-25 01:52:49 - Epoch 18/20, Loss: 1.5830496281919504, Validation Accuracy: 49.230000000000004
+30-Mar-25 01:53:07 - Epoch 19/20, Loss: 1.5802461868854447, Validation Accuracy: 49.370000000000005
+30-Mar-25 01:53:25 - Epoch 20/20, Loss: 1.5774446705124976, Validation Accuracy: 49.519999999999996
+30-Mar-25 01:53:25 - ------------------------------------------------------------------
+30-Mar-25 01:53:25 - lr:0.01, hidden_sizes:[128, 128], lambda_reg:0.01
+30-Mar-25 01:53:42 - Epoch 1/20, Loss: 2.5525640626072037, Validation Accuracy: 22.52
+30-Mar-25 01:53:59 - Epoch 2/20, Loss: 2.154475250409232, Validation Accuracy: 31.830000000000002
+30-Mar-25 01:54:17 - Epoch 3/20, Loss: 1.9630249926450303, Validation Accuracy: 36.76
+30-Mar-25 01:54:35 - Epoch 4/20, Loss: 1.8469532972500433, Validation Accuracy: 39.96
+30-Mar-25 01:54:54 - Epoch 5/20, Loss: 1.7684491016931214, Validation Accuracy: 42.34
+30-Mar-25 01:55:12 - Epoch 6/20, Loss: 1.718335803584698, Validation Accuracy: 44.03
+30-Mar-25 01:55:31 - Epoch 7/20, Loss: 1.6842989409067783, Validation Accuracy: 45.269999999999996
+30-Mar-25 01:55:49 - Epoch 8/20, Loss: 1.6595628025830775, Validation Accuracy: 46.160000000000004
+30-Mar-25 01:56:07 - Epoch 9/20, Loss: 1.6415782558763579, Validation Accuracy: 47.12
+30-Mar-25 01:56:24 - Epoch 10/20, Loss: 1.6281260796717993, Validation Accuracy: 47.43
+30-Mar-25 01:56:41 - Epoch 11/20, Loss: 1.6178779313522995, Validation Accuracy: 47.63
+30-Mar-25 01:57:00 - Epoch 12/20, Loss: 1.609569073190638, Validation Accuracy: 48.230000000000004
+30-Mar-25 01:57:18 - Epoch 13/20, Loss: 1.603245696193186, Validation Accuracy: 48.54
+30-Mar-25 01:57:35 - Epoch 14/20, Loss: 1.5980005879396997, Validation Accuracy: 48.559999999999995
+30-Mar-25 01:57:53 - Epoch 15/20, Loss: 1.5935688317451493, Validation Accuracy: 48.78
+30-Mar-25 01:58:11 - Epoch 16/20, Loss: 1.5897531445256046, Validation Accuracy: 49.01
+30-Mar-25 01:58:29 - Epoch 17/20, Loss: 1.586387651068848, Validation Accuracy: 49.0
+30-Mar-25 01:58:47 - Epoch 18/20, Loss: 1.5831033216931467, Validation Accuracy: 49.120000000000005
+30-Mar-25 01:59:06 - Epoch 19/20, Loss: 1.5802849842641193, Validation Accuracy: 49.370000000000005
+30-Mar-25 01:59:22 - Epoch 20/20, Loss: 1.5777336795423202, Validation Accuracy: 49.54
+30-Mar-25 01:59:22 - ------------------------------------------------------------------
+30-Mar-25 01:59:22 - lr:0.01, hidden_sizes:[256, 128], lambda_reg:0.01
+30-Mar-25 01:59:50 - Epoch 1/20, Loss: 2.8282624932987757, Validation Accuracy: 26.640000000000004
+30-Mar-25 02:00:18 - Epoch 2/20, Loss: 2.299509301327991, Validation Accuracy: 34.69
+30-Mar-25 02:00:46 - Epoch 3/20, Loss: 2.042904778357518, Validation Accuracy: 39.08
+30-Mar-25 02:01:14 - Epoch 4/20, Loss: 1.8854333907044296, Validation Accuracy: 41.61
+30-Mar-25 02:01:42 - Epoch 5/20, Loss: 1.7873874087878219, Validation Accuracy: 43.79
+30-Mar-25 02:02:11 - Epoch 6/20, Loss: 1.7236781708786315, Validation Accuracy: 45.37
+30-Mar-25 02:02:39 - Epoch 7/20, Loss: 1.681938920596114, Validation Accuracy: 46.300000000000004
+30-Mar-25 02:03:07 - Epoch 8/20, Loss: 1.6536121389077751, Validation Accuracy: 47.15
+30-Mar-25 02:03:34 - Epoch 9/20, Loss: 1.6336664139969292, Validation Accuracy: 47.67
+30-Mar-25 02:04:04 - Epoch 10/20, Loss: 1.6189280113302418, Validation Accuracy: 48.17
+30-Mar-25 02:04:33 - Epoch 11/20, Loss: 1.6077821205393783, Validation Accuracy: 48.57
+30-Mar-25 02:05:03 - Epoch 12/20, Loss: 1.5991193182900474, Validation Accuracy: 48.949999999999996
+30-Mar-25 02:05:32 - Epoch 13/20, Loss: 1.592229260100904, Validation Accuracy: 49.33
+30-Mar-25 02:06:02 - Epoch 14/20, Loss: 1.5865208956964847, Validation Accuracy: 49.51
+30-Mar-25 02:06:29 - Epoch 15/20, Loss: 1.58178321272925, Validation Accuracy: 49.65
+30-Mar-25 02:06:58 - Epoch 16/20, Loss: 1.577844881805861, Validation Accuracy: 49.75
+30-Mar-25 02:07:26 - Epoch 17/20, Loss: 1.5742945435758773, Validation Accuracy: 50.13999999999999
+30-Mar-25 02:07:54 - Epoch 18/20, Loss: 1.5711521521913316, Validation Accuracy: 50.07
+30-Mar-25 02:08:24 - Epoch 19/20, Loss: 1.5682819756204367, Validation Accuracy: 50.11
+30-Mar-25 02:08:53 - Epoch 20/20, Loss: 1.5656350613283698, Validation Accuracy: 50.19
+30-Mar-25 02:08:53 - ------------------------------------------------------------------
+30-Mar-25 02:08:53 - lr:0.01, hidden_sizes:[256, 256], lambda_reg:0.01
+30-Mar-25 02:09:22 - Epoch 1/20, Loss: 2.8290393040719373, Validation Accuracy: 28.24
+30-Mar-25 02:09:53 - Epoch 2/20, Loss: 2.2960745459963463, Validation Accuracy: 35.65
+30-Mar-25 02:10:23 - Epoch 3/20, Loss: 2.0379337617353523, Validation Accuracy: 39.739999999999995
+30-Mar-25 02:10:53 - Epoch 4/20, Loss: 1.8816036485968282, Validation Accuracy: 42.46
+30-Mar-25 02:11:22 - Epoch 5/20, Loss: 1.7840165520681672, Validation Accuracy: 44.37
+30-Mar-25 02:11:51 - Epoch 6/20, Loss: 1.7216691844169683, Validation Accuracy: 45.76
+30-Mar-25 02:12:22 - Epoch 7/20, Loss: 1.6805671096350765, Validation Accuracy: 46.72
+30-Mar-25 02:12:53 - Epoch 8/20, Loss: 1.652094208820563, Validation Accuracy: 47.32
+30-Mar-25 02:13:24 - Epoch 9/20, Loss: 1.6324971927860192, Validation Accuracy: 47.79
+30-Mar-25 02:13:53 - Epoch 10/20, Loss: 1.618088154357658, Validation Accuracy: 48.18
+30-Mar-25 02:14:23 - Epoch 11/20, Loss: 1.6073556649384717, Validation Accuracy: 48.54
+30-Mar-25 02:14:52 - Epoch 12/20, Loss: 1.5988089818632254, Validation Accuracy: 49.09
+30-Mar-25 02:15:21 - Epoch 13/20, Loss: 1.5919615386850503, Validation Accuracy: 49.03
+30-Mar-25 02:15:50 - Epoch 14/20, Loss: 1.5864267001038908, Validation Accuracy: 49.38
+30-Mar-25 02:16:19 - Epoch 15/20, Loss: 1.5818885512742311, Validation Accuracy: 49.6
+30-Mar-25 02:16:49 - Epoch 16/20, Loss: 1.5778447423673112, Validation Accuracy: 49.76
+30-Mar-25 02:17:19 - Epoch 17/20, Loss: 1.5744469921346542, Validation Accuracy: 49.96
+30-Mar-25 02:17:49 - Epoch 18/20, Loss: 1.5713135456734182, Validation Accuracy: 50.14999999999999
+30-Mar-25 02:18:20 - Epoch 19/20, Loss: 1.5685568504021874, Validation Accuracy: 50.4
+30-Mar-25 02:18:50 - Epoch 20/20, Loss: 1.565987164915342, Validation Accuracy: 50.529999999999994
+30-Mar-25 02:18:50 - ------------------------------------------------------------------
+30-Mar-25 02:18:50 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.01
+30-Mar-25 02:19:47 - Epoch 1/20, Loss: 3.437063759627915, Validation Accuracy: 31.14
+30-Mar-25 02:20:48 - Epoch 2/20, Loss: 2.6529888659968566, Validation Accuracy: 38.17
+30-Mar-25 02:21:49 - Epoch 3/20, Loss: 2.2463951024395077, Validation Accuracy: 41.410000000000004
+30-Mar-25 02:22:49 - Epoch 4/20, Loss: 2.0047000270698403, Validation Accuracy: 43.95
+30-Mar-25 02:23:49 - Epoch 5/20, Loss: 1.855204425926469, Validation Accuracy: 45.64
+30-Mar-25 02:24:49 - Epoch 6/20, Loss: 1.7610386489436318, Validation Accuracy: 46.81
+30-Mar-25 02:25:47 - Epoch 7/20, Loss: 1.7004756573247228, Validation Accuracy: 47.82
+30-Mar-25 02:26:47 - Epoch 8/20, Loss: 1.660876000267068, Validation Accuracy: 48.230000000000004
+30-Mar-25 02:27:47 - Epoch 9/20, Loss: 1.63407412620826, Validation Accuracy: 48.74
+30-Mar-25 02:28:50 - Epoch 10/20, Loss: 1.6155814816036607, Validation Accuracy: 48.99
+30-Mar-25 02:29:52 - Epoch 11/20, Loss: 1.6023871425349336, Validation Accuracy: 49.25
+30-Mar-25 02:30:52 - Epoch 12/20, Loss: 1.5927069701523855, Validation Accuracy: 49.58
+30-Mar-25 02:31:50 - Epoch 13/20, Loss: 1.5852447806116128, Validation Accuracy: 49.8
+30-Mar-25 02:32:47 - Epoch 14/20, Loss: 1.5794032993670657, Validation Accuracy: 50.019999999999996
+30-Mar-25 02:33:46 - Epoch 15/20, Loss: 1.574775813530121, Validation Accuracy: 50.080000000000005
+30-Mar-25 02:34:45 - Epoch 16/20, Loss: 1.570723228917, Validation Accuracy: 50.19
+30-Mar-25 02:35:44 - Epoch 17/20, Loss: 1.5674046734580656, Validation Accuracy: 50.260000000000005
+30-Mar-25 02:36:45 - Epoch 18/20, Loss: 1.5644237721200185, Validation Accuracy: 50.73
+30-Mar-25 02:37:41 - Epoch 19/20, Loss: 1.561683764842982, Validation Accuracy: 50.92
+30-Mar-25 02:38:38 - Epoch 20/20, Loss: 1.5593221412234723, Validation Accuracy: 50.92
+30-Mar-25 02:38:38 - ------------------------------------------------------------------
+30-Mar-25 02:38:38 - lr:0.01, hidden_sizes:[512, 512], lambda_reg:0.01
+30-Mar-25 02:39:41 - Epoch 1/20, Loss: 3.5107692072524035, Validation Accuracy: 33.25
+30-Mar-25 02:40:45 - Epoch 2/20, Loss: 2.693739870375303, Validation Accuracy: 39.11
+30-Mar-25 02:41:49 - Epoch 3/20, Loss: 2.2703390256901677, Validation Accuracy: 42.199999999999996
+30-Mar-25 02:42:54 - Epoch 4/20, Loss: 2.0180248647263794, Validation Accuracy: 44.51
+30-Mar-25 02:43:59 - Epoch 5/20, Loss: 1.862392194794457, Validation Accuracy: 46.08
+30-Mar-25 02:45:03 - Epoch 6/20, Loss: 1.7642766998818356, Validation Accuracy: 47.22
+30-Mar-25 02:46:08 - Epoch 7/20, Loss: 1.7015441697941278, Validation Accuracy: 47.839999999999996
+30-Mar-25 02:47:12 - Epoch 8/20, Loss: 1.660493386758924, Validation Accuracy: 48.4
+30-Mar-25 02:48:15 - Epoch 9/20, Loss: 1.633115395908703, Validation Accuracy: 48.870000000000005
+30-Mar-25 02:49:18 - Epoch 10/20, Loss: 1.6143070709692346, Validation Accuracy: 49.03
+30-Mar-25 02:50:20 - Epoch 11/20, Loss: 1.6010142317351477, Validation Accuracy: 49.26
+30-Mar-25 02:51:22 - Epoch 12/20, Loss: 1.5912624039259164, Validation Accuracy: 49.41
+30-Mar-25 02:52:24 - Epoch 13/20, Loss: 1.584015343151488, Validation Accuracy: 49.66
+30-Mar-25 02:53:27 - Epoch 14/20, Loss: 1.5782127376066895, Validation Accuracy: 49.86
+30-Mar-25 02:54:30 - Epoch 15/20, Loss: 1.5736263700484083, Validation Accuracy: 49.97
+30-Mar-25 02:55:33 - Epoch 16/20, Loss: 1.5698398664903508, Validation Accuracy: 50.11
+30-Mar-25 02:56:36 - Epoch 17/20, Loss: 1.566650972052225, Validation Accuracy: 50.349999999999994
+30-Mar-25 02:57:39 - Epoch 18/20, Loss: 1.5637454665036334, Validation Accuracy: 50.690000000000005
+30-Mar-25 02:58:41 - Epoch 19/20, Loss: 1.5610121323678001, Validation Accuracy: 50.89
+30-Mar-25 02:59:44 - Epoch 20/20, Loss: 1.5585904768410432, Validation Accuracy: 50.93
+30-Mar-25 02:59:44 - ------------------------------------------------------------------
+29-Mar-25 10:57:01 - ['tanh', 'tanh']
+29-Mar-25 10:57:01 - lr:0.01, hidden_sizes:[64, 32], lambda_reg:0.01
+29-Mar-25 10:57:14 - Epoch 1/20, Loss: 2.3731206123507476, Validation Accuracy: 19.82
+29-Mar-25 10:57:27 - Epoch 2/20, Loss: 2.108961737564308, Validation Accuracy: 26.939999999999998
+29-Mar-25 10:57:39 - Epoch 3/20, Loss: 2.021911985261533, Validation Accuracy: 30.470000000000002
+29-Mar-25 10:57:52 - Epoch 4/20, Loss: 1.9675103304772388, Validation Accuracy: 33.300000000000004
+29-Mar-25 10:58:05 - Epoch 5/20, Loss: 1.9227797054730904, Validation Accuracy: 34.63
+29-Mar-25 10:58:17 - Epoch 6/20, Loss: 1.896544218735435, Validation Accuracy: 35.85
+29-Mar-25 10:58:30 - Epoch 7/20, Loss: 1.8784660365815522, Validation Accuracy: 36.309999999999995
+29-Mar-25 10:58:42 - Epoch 8/20, Loss: 1.8655110552791356, Validation Accuracy: 36.78
+29-Mar-25 10:58:55 - Epoch 9/20, Loss: 1.8563253179045762, Validation Accuracy: 37.04
+29-Mar-25 10:59:07 - Epoch 10/20, Loss: 1.8491999061756192, Validation Accuracy: 37.57
+29-Mar-25 10:59:19 - Epoch 11/20, Loss: 1.8429120890833404, Validation Accuracy: 37.96
+29-Mar-25 10:59:32 - Epoch 12/20, Loss: 1.8366577584855694, Validation Accuracy: 38.57
+29-Mar-25 10:59:45 - Epoch 13/20, Loss: 1.8300573840359375, Validation Accuracy: 39.24
+29-Mar-25 10:59:56 - Epoch 14/20, Loss: 1.8233221421508272, Validation Accuracy: 39.86
+29-Mar-25 11:00:09 - Epoch 15/20, Loss: 1.8171087562762132, Validation Accuracy: 40.410000000000004
+29-Mar-25 11:00:21 - Epoch 16/20, Loss: 1.8119175433682233, Validation Accuracy: 40.63
+29-Mar-25 11:00:33 - Epoch 17/20, Loss: 1.807659746000611, Validation Accuracy: 41.03
+29-Mar-25 11:00:46 - Epoch 18/20, Loss: 1.80400423500842, Validation Accuracy: 41.28
+29-Mar-25 11:00:59 - Epoch 19/20, Loss: 1.800720689213026, Validation Accuracy: 41.589999999999996
+29-Mar-25 11:01:11 - Epoch 20/20, Loss: 1.7976910829335953, Validation Accuracy: 41.959999999999994
+29-Mar-25 11:01:11 - ------------------------------------------------------------------
+29-Mar-25 11:01:11 - lr:0.01, hidden_sizes:[64, 64], lambda_reg:0.01
+29-Mar-25 11:01:25 - Epoch 1/20, Loss: 2.3486626827569688, Validation Accuracy: 20.62
+29-Mar-25 11:01:38 - Epoch 2/20, Loss: 2.0944508277249256, Validation Accuracy: 29.970000000000002
+29-Mar-25 11:01:51 - Epoch 3/20, Loss: 1.9852280488210428, Validation Accuracy: 33.43
+29-Mar-25 11:02:04 - Epoch 4/20, Loss: 1.9272513475924822, Validation Accuracy: 34.71
+29-Mar-25 11:02:17 - Epoch 5/20, Loss: 1.8986526010495495, Validation Accuracy: 35.72
+29-Mar-25 11:02:30 - Epoch 6/20, Loss: 1.8783128591898657, Validation Accuracy: 36.41
+29-Mar-25 11:02:43 - Epoch 7/20, Loss: 1.8615626504171279, Validation Accuracy: 36.9
+29-Mar-25 11:02:57 - Epoch 8/20, Loss: 1.8486828329827254, Validation Accuracy: 37.66
+29-Mar-25 11:03:09 - Epoch 9/20, Loss: 1.8382474229134946, Validation Accuracy: 38.23
+29-Mar-25 11:03:22 - Epoch 10/20, Loss: 1.828528695587296, Validation Accuracy: 39.15
+29-Mar-25 11:03:35 - Epoch 11/20, Loss: 1.8192725215812116, Validation Accuracy: 39.86
+29-Mar-25 11:03:48 - Epoch 12/20, Loss: 1.811400793566214, Validation Accuracy: 40.32
+29-Mar-25 11:04:01 - Epoch 13/20, Loss: 1.8054126074193948, Validation Accuracy: 40.71
+29-Mar-25 11:04:14 - Epoch 14/20, Loss: 1.8007824791324987, Validation Accuracy: 40.8
+29-Mar-25 11:04:27 - Epoch 15/20, Loss: 1.79692955489829, Validation Accuracy: 40.88
+29-Mar-25 11:04:40 - Epoch 16/20, Loss: 1.7935337599174415, Validation Accuracy: 41.13
+29-Mar-25 11:04:53 - Epoch 17/20, Loss: 1.7904183346789224, Validation Accuracy: 41.39
+29-Mar-25 11:05:06 - Epoch 18/20, Loss: 1.787480309307255, Validation Accuracy: 41.53
+29-Mar-25 11:05:19 - Epoch 19/20, Loss: 1.7846689700665745, Validation Accuracy: 41.82
+29-Mar-25 11:05:32 - Epoch 20/20, Loss: 1.7819536047877529, Validation Accuracy: 42.01
+29-Mar-25 11:05:32 - ------------------------------------------------------------------
+29-Mar-25 11:05:32 - lr:0.01, hidden_sizes:[128, 64], lambda_reg:0.01
+29-Mar-25 11:05:54 - Epoch 1/20, Loss: 2.463040816564226, Validation Accuracy: 26.07
+29-Mar-25 11:06:14 - Epoch 2/20, Loss: 2.1514478364020073, Validation Accuracy: 32.5
+29-Mar-25 11:06:35 - Epoch 3/20, Loss: 2.0208887174228183, Validation Accuracy: 34.449999999999996
+29-Mar-25 11:06:56 - Epoch 4/20, Loss: 1.948242502926019, Validation Accuracy: 35.480000000000004
+29-Mar-25 11:07:18 - Epoch 5/20, Loss: 1.9028402302574432, Validation Accuracy: 36.370000000000005
+29-Mar-25 11:07:41 - Epoch 6/20, Loss: 1.8722035749062642, Validation Accuracy: 37.25
+29-Mar-25 11:08:01 - Epoch 7/20, Loss: 1.851300718264287, Validation Accuracy: 38.17
+29-Mar-25 11:08:23 - Epoch 8/20, Loss: 1.8350130923711123, Validation Accuracy: 38.81
+29-Mar-25 11:08:44 - Epoch 9/20, Loss: 1.8209312417078591, Validation Accuracy: 39.44
+29-Mar-25 11:09:04 - Epoch 10/20, Loss: 1.8097586244113133, Validation Accuracy: 40.23
+29-Mar-25 11:09:25 - Epoch 11/20, Loss: 1.8017794006069752, Validation Accuracy: 40.61
+29-Mar-25 11:09:46 - Epoch 12/20, Loss: 1.7958035612452299, Validation Accuracy: 40.93
+29-Mar-25 11:10:08 - Epoch 13/20, Loss: 1.790933554033087, Validation Accuracy: 41.32
+29-Mar-25 11:10:29 - Epoch 14/20, Loss: 1.7867039200037536, Validation Accuracy: 41.63
+29-Mar-25 11:10:51 - Epoch 15/20, Loss: 1.7828590928177108, Validation Accuracy: 41.88
+29-Mar-25 11:11:15 - Epoch 16/20, Loss: 1.7792714746131395, Validation Accuracy: 42.08
+29-Mar-25 11:11:37 - Epoch 17/20, Loss: 1.7758892242543038, Validation Accuracy: 42.309999999999995
+29-Mar-25 11:11:59 - Epoch 18/20, Loss: 1.7726983913896772, Validation Accuracy: 42.4
+29-Mar-25 11:12:23 - Epoch 19/20, Loss: 1.7696647587812604, Validation Accuracy: 42.55
+29-Mar-25 11:12:47 - Epoch 20/20, Loss: 1.7667600340308134, Validation Accuracy: 42.970000000000006
+29-Mar-25 11:12:47 - ------------------------------------------------------------------
+29-Mar-25 11:12:47 - lr:0.01, hidden_sizes:[128, 128], lambda_reg:0.01
+29-Mar-25 11:13:12 - Epoch 1/20, Loss: 2.438661701799358, Validation Accuracy: 28.42
+29-Mar-25 11:13:36 - Epoch 2/20, Loss: 2.1283141118855857, Validation Accuracy: 33.68
+29-Mar-25 11:13:58 - Epoch 3/20, Loss: 1.9975675373229314, Validation Accuracy: 35.5
+29-Mar-25 11:14:20 - Epoch 4/20, Loss: 1.925014959975832, Validation Accuracy: 36.55
+29-Mar-25 11:14:41 - Epoch 5/20, Loss: 1.8821505657094941, Validation Accuracy: 37.6
+29-Mar-25 11:15:02 - Epoch 6/20, Loss: 1.8525467469840968, Validation Accuracy: 38.79
+29-Mar-25 11:15:24 - Epoch 7/20, Loss: 1.8299533217647033, Validation Accuracy: 39.48
+29-Mar-25 11:15:45 - Epoch 8/20, Loss: 1.814067792593859, Validation Accuracy: 40.2
+29-Mar-25 11:16:05 - Epoch 9/20, Loss: 1.8032765314111245, Validation Accuracy: 40.71
+29-Mar-25 11:16:26 - Epoch 10/20, Loss: 1.7954281829535903, Validation Accuracy: 40.83
+29-Mar-25 11:16:48 - Epoch 11/20, Loss: 1.7893042818651552, Validation Accuracy: 41.07
+29-Mar-25 11:17:10 - Epoch 12/20, Loss: 1.7842771204995147, Validation Accuracy: 41.4
+29-Mar-25 11:17:32 - Epoch 13/20, Loss: 1.7799678347323726, Validation Accuracy: 41.72
+29-Mar-25 11:17:54 - Epoch 14/20, Loss: 1.7761231208361918, Validation Accuracy: 41.839999999999996
+29-Mar-25 11:18:15 - Epoch 15/20, Loss: 1.7725812537379766, Validation Accuracy: 42.13
+29-Mar-25 11:18:37 - Epoch 16/20, Loss: 1.7692443554747261, Validation Accuracy: 42.49
+29-Mar-25 11:18:59 - Epoch 17/20, Loss: 1.76604959921168, Validation Accuracy: 42.86
+29-Mar-25 11:19:20 - Epoch 18/20, Loss: 1.7629550321079042, Validation Accuracy: 43.02
+29-Mar-25 11:19:41 - Epoch 19/20, Loss: 1.7599330603775407, Validation Accuracy: 43.16
+29-Mar-25 11:20:03 - Epoch 20/20, Loss: 1.7569624096334384, Validation Accuracy: 43.230000000000004
+29-Mar-25 11:20:03 - ------------------------------------------------------------------
+29-Mar-25 11:20:03 - lr:0.01, hidden_sizes:[256, 128], lambda_reg:0.01
+29-Mar-25 11:20:36 - Epoch 1/20, Loss: 2.725942353928405, Validation Accuracy: 30.009999999999998
+29-Mar-25 11:21:10 - Epoch 2/20, Loss: 2.3016924841944753, Validation Accuracy: 34.63
+29-Mar-25 11:21:43 - Epoch 3/20, Loss: 2.097192107793929, Validation Accuracy: 36.75
+29-Mar-25 11:22:16 - Epoch 4/20, Loss: 1.9800270551026329, Validation Accuracy: 38.18
+29-Mar-25 11:22:47 - Epoch 5/20, Loss: 1.907189245597229, Validation Accuracy: 38.879999999999995
+29-Mar-25 11:23:21 - Epoch 6/20, Loss: 1.862171062098282, Validation Accuracy: 39.739999999999995
+29-Mar-25 11:23:55 - Epoch 7/20, Loss: 1.8334814681041993, Validation Accuracy: 40.44
+29-Mar-25 11:24:27 - Epoch 8/20, Loss: 1.8143054558875658, Validation Accuracy: 40.82
+29-Mar-25 11:25:00 - Epoch 9/20, Loss: 1.8009278177565176, Validation Accuracy: 41.13
+29-Mar-25 11:25:33 - Epoch 10/20, Loss: 1.791172607469829, Validation Accuracy: 41.55
+29-Mar-25 11:26:06 - Epoch 11/20, Loss: 1.7837111155782492, Validation Accuracy: 41.82
+29-Mar-25 11:26:41 - Epoch 12/20, Loss: 1.7777375026200053, Validation Accuracy: 42.13
+29-Mar-25 11:27:14 - Epoch 13/20, Loss: 1.772757678003988, Validation Accuracy: 42.47
+29-Mar-25 11:27:46 - Epoch 14/20, Loss: 1.7684570233968058, Validation Accuracy: 42.91
+29-Mar-25 11:28:18 - Epoch 15/20, Loss: 1.76463124510632, Validation Accuracy: 43.13
+29-Mar-25 11:28:52 - Epoch 16/20, Loss: 1.7611454273592602, Validation Accuracy: 43.38
+29-Mar-25 11:29:26 - Epoch 17/20, Loss: 1.7579068217161435, Validation Accuracy: 43.46
+29-Mar-25 11:29:59 - Epoch 18/20, Loss: 1.7548488702105638, Validation Accuracy: 43.5
+29-Mar-25 11:30:32 - Epoch 19/20, Loss: 1.751923239227933, Validation Accuracy: 43.66
+29-Mar-25 11:31:04 - Epoch 20/20, Loss: 1.7490950723372856, Validation Accuracy: 43.8
+29-Mar-25 11:31:04 - ------------------------------------------------------------------
+29-Mar-25 11:31:04 - lr:0.01, hidden_sizes:[256, 256], lambda_reg:0.01
+29-Mar-25 11:31:39 - Epoch 1/20, Loss: 2.716673484327033, Validation Accuracy: 32.33
+29-Mar-25 11:32:14 - Epoch 2/20, Loss: 2.2922957305099265, Validation Accuracy: 35.91
+29-Mar-25 11:32:50 - Epoch 3/20, Loss: 2.091325864357948, Validation Accuracy: 37.49
+29-Mar-25 11:33:27 - Epoch 4/20, Loss: 1.9729117098179554, Validation Accuracy: 38.74
+29-Mar-25 11:34:04 - Epoch 5/20, Loss: 1.900404355101466, Validation Accuracy: 39.629999999999995
+29-Mar-25 11:34:42 - Epoch 6/20, Loss: 1.8556860445987973, Validation Accuracy: 40.31
+29-Mar-25 11:35:19 - Epoch 7/20, Loss: 1.82704646545658, Validation Accuracy: 41.06
+29-Mar-25 11:35:55 - Epoch 8/20, Loss: 1.807969542078621, Validation Accuracy: 41.199999999999996
+29-Mar-25 11:36:32 - Epoch 9/20, Loss: 1.7947214506638196, Validation Accuracy: 41.56
+29-Mar-25 11:37:09 - Epoch 10/20, Loss: 1.7850792861889455, Validation Accuracy: 41.94
+29-Mar-25 11:37:47 - Epoch 11/20, Loss: 1.7777164160161072, Validation Accuracy: 42.38
+29-Mar-25 11:38:25 - Epoch 12/20, Loss: 1.7718362651543655, Validation Accuracy: 42.8
+29-Mar-25 11:39:03 - Epoch 13/20, Loss: 1.766945373504081, Validation Accuracy: 42.93
+29-Mar-25 11:39:40 - Epoch 14/20, Loss: 1.7627322644399974, Validation Accuracy: 43.120000000000005
+29-Mar-25 11:40:17 - Epoch 15/20, Loss: 1.7589913328704758, Validation Accuracy: 43.22
+29-Mar-25 11:40:54 - Epoch 16/20, Loss: 1.7555800733401472, Validation Accuracy: 43.46
+29-Mar-25 11:41:32 - Epoch 17/20, Loss: 1.752398999514662, Validation Accuracy: 43.59
+29-Mar-25 11:42:09 - Epoch 18/20, Loss: 1.7493795389279279, Validation Accuracy: 43.82
+29-Mar-25 11:42:47 - Epoch 19/20, Loss: 1.7464739075215723, Validation Accuracy: 43.9
+29-Mar-25 11:43:25 - Epoch 20/20, Loss: 1.74364883475521, Validation Accuracy: 44.05
+29-Mar-25 11:43:25 - ------------------------------------------------------------------
+29-Mar-25 11:43:25 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.01
+29-Mar-25 11:44:30 - Epoch 1/20, Loss: 3.349659568540204, Validation Accuracy: 33.76
+29-Mar-25 11:45:36 - Epoch 2/20, Loss: 2.6765030038286275, Validation Accuracy: 36.730000000000004
+29-Mar-25 11:46:41 - Epoch 3/20, Loss: 2.322642980098265, Validation Accuracy: 38.379999999999995
+29-Mar-25 11:47:46 - Epoch 4/20, Loss: 2.1136295705488233, Validation Accuracy: 39.6
+29-Mar-25 11:48:51 - Epoch 5/20, Loss: 1.9876489965646764, Validation Accuracy: 40.27
+29-Mar-25 11:49:57 - Epoch 6/20, Loss: 1.909851898597577, Validation Accuracy: 40.910000000000004
+29-Mar-25 11:51:01 - Epoch 7/20, Loss: 1.8607303845079555, Validation Accuracy: 41.410000000000004
+29-Mar-25 11:52:06 - Epoch 8/20, Loss: 1.8289699704929372, Validation Accuracy: 41.71
+29-Mar-25 11:53:12 - Epoch 9/20, Loss: 1.8078936498714415, Validation Accuracy: 42.0
+29-Mar-25 11:54:18 - Epoch 10/20, Loss: 1.7934900649695151, Validation Accuracy: 42.3
+29-Mar-25 11:55:24 - Epoch 11/20, Loss: 1.7833052727161358, Validation Accuracy: 42.49
+29-Mar-25 11:56:30 - Epoch 12/20, Loss: 1.775813411910272, Validation Accuracy: 42.77
+29-Mar-25 11:57:36 - Epoch 13/20, Loss: 1.7700501404383726, Validation Accuracy: 42.980000000000004
+29-Mar-25 11:58:42 - Epoch 14/20, Loss: 1.7654014961776916, Validation Accuracy: 43.13
+29-Mar-25 11:59:50 - Epoch 15/20, Loss: 1.7614786332587722, Validation Accuracy: 43.309999999999995
+29-Mar-25 12:00:54 - Epoch 16/20, Loss: 1.7580333261647914, Validation Accuracy: 43.43
+29-Mar-25 12:01:59 - Epoch 17/20, Loss: 1.754904074126603, Validation Accuracy: 43.56
+29-Mar-25 12:03:04 - Epoch 18/20, Loss: 1.7519864036365023, Validation Accuracy: 43.78
+29-Mar-25 12:04:08 - Epoch 19/20, Loss: 1.7492138054422848, Validation Accuracy: 43.82
+29-Mar-25 12:05:13 - Epoch 20/20, Loss: 1.7465439929387907, Validation Accuracy: 43.89
+29-Mar-25 12:05:13 - ------------------------------------------------------------------
+29-Mar-25 12:05:13 - lr:0.01, hidden_sizes:[512, 512], lambda_reg:0.01
+29-Mar-25 12:06:25 - Epoch 1/20, Loss: 3.424639952082759, Validation Accuracy: 34.82
+29-Mar-25 12:07:31 - Epoch 2/20, Loss: 2.7202178068512533, Validation Accuracy: 37.980000000000004
+29-Mar-25 12:08:36 - Epoch 3/20, Loss: 2.3490933456359646, Validation Accuracy: 39.160000000000004
+29-Mar-25 12:09:42 - Epoch 4/20, Loss: 2.129886687769152, Validation Accuracy: 40.089999999999996
+29-Mar-25 12:10:49 - Epoch 5/20, Loss: 1.9968461937212472, Validation Accuracy: 40.77
+29-Mar-25 12:11:55 - Epoch 6/20, Loss: 1.9144094403345182, Validation Accuracy: 41.27
+29-Mar-25 12:13:01 - Epoch 7/20, Loss: 1.8623909700344363, Validation Accuracy: 41.77
+29-Mar-25 12:14:06 - Epoch 8/20, Loss: 1.8288931829968476, Validation Accuracy: 42.089999999999996
+29-Mar-25 12:15:12 - Epoch 9/20, Loss: 1.806790568223512, Validation Accuracy: 42.3
+29-Mar-25 12:16:19 - Epoch 10/20, Loss: 1.791778594663827, Validation Accuracy: 42.449999999999996
+29-Mar-25 12:17:28 - Epoch 11/20, Loss: 1.7812272692429254, Validation Accuracy: 42.76
+29-Mar-25 12:18:33 - Epoch 12/20, Loss: 1.7735075661941406, Validation Accuracy: 42.91
+29-Mar-25 12:19:39 - Epoch 13/20, Loss: 1.767595647487173, Validation Accuracy: 43.09
+29-Mar-25 12:20:45 - Epoch 14/20, Loss: 1.7628431196855425, Validation Accuracy: 43.29
+29-Mar-25 12:21:51 - Epoch 15/20, Loss: 1.7588391995010624, Validation Accuracy: 43.43
+29-Mar-25 12:22:58 - Epoch 16/20, Loss: 1.7553217685435305, Validation Accuracy: 43.6
+29-Mar-25 12:24:03 - Epoch 17/20, Loss: 1.7521219324880144, Validation Accuracy: 43.55
+29-Mar-25 12:25:09 - Epoch 18/20, Loss: 1.7491307771306515, Validation Accuracy: 43.62
+29-Mar-25 12:26:14 - Epoch 19/20, Loss: 1.7462791685133638, Validation Accuracy: 43.79
+29-Mar-25 12:27:20 - Epoch 20/20, Loss: 1.7435229898836373, Validation Accuracy: 43.85
+29-Mar-25 12:27:20 - ------------------------------------------------------------------
+29-Mar-25 12:54:45 - ['sigmoid', 'sigmoid']
+29-Mar-25 12:54:45 - lr:0.01, hidden_sizes:[64, 32], lambda_reg:0.01
+29-Mar-25 12:54:57 - Epoch 1/20, Loss: 2.46008224909259, Validation Accuracy: 9.94
+29-Mar-25 12:55:08 - Epoch 2/20, Loss: 2.39861654238712, Validation Accuracy: 9.94
+29-Mar-25 12:55:21 - Epoch 3/20, Loss: 2.361549868360687, Validation Accuracy: 9.94
+29-Mar-25 12:55:33 - Epoch 4/20, Loss: 2.3390777734732975, Validation Accuracy: 9.94
+29-Mar-25 12:55:46 - Epoch 5/20, Loss: 2.3253840196121134, Validation Accuracy: 9.94
+29-Mar-25 12:55:57 - Epoch 6/20, Loss: 2.3169971322317853, Validation Accuracy: 9.94
+29-Mar-25 12:56:09 - Epoch 7/20, Loss: 2.311834453841923, Validation Accuracy: 9.94
+29-Mar-25 12:56:22 - Epoch 8/20, Loss: 2.3086402623990394, Validation Accuracy: 9.94
+29-Mar-25 12:56:34 - Epoch 9/20, Loss: 2.306653703804375, Validation Accuracy: 9.94
+29-Mar-25 12:56:46 - Epoch 10/20, Loss: 2.305411536076075, Validation Accuracy: 9.94
+29-Mar-25 12:56:58 - Epoch 11/20, Loss: 2.3046303716646874, Validation Accuracy: 9.94
+29-Mar-25 12:57:09 - Epoch 12/20, Loss: 2.3041360347119477, Validation Accuracy: 9.94
+29-Mar-25 12:57:21 - Epoch 13/20, Loss: 2.3038209781581647, Validation Accuracy: 9.94
+29-Mar-25 12:57:33 - Epoch 14/20, Loss: 2.303618493135588, Validation Accuracy: 9.94
+29-Mar-25 12:57:46 - Epoch 15/20, Loss: 2.3034870157014486, Validation Accuracy: 9.94
+29-Mar-25 12:57:57 - Epoch 16/20, Loss: 2.303400533808083, Validation Accuracy: 9.94
+29-Mar-25 12:58:08 - Epoch 17/20, Loss: 2.303342696765146, Validation Accuracy: 9.94
+29-Mar-25 12:58:20 - Epoch 18/20, Loss: 2.3033031821215038, Validation Accuracy: 9.94
+29-Mar-25 12:58:32 - Epoch 19/20, Loss: 2.303275445048643, Validation Accuracy: 9.94
+29-Mar-25 12:58:45 - Epoch 20/20, Loss: 2.3032553181204505, Validation Accuracy: 9.94
+29-Mar-25 12:58:45 - ------------------------------------------------------------------
+29-Mar-25 12:58:45 - lr:0.01, hidden_sizes:[64, 64], lambda_reg:0.01
+29-Mar-25 12:58:57 - Epoch 1/20, Loss: 2.4632913045884846, Validation Accuracy: 9.73
+29-Mar-25 12:59:08 - Epoch 2/20, Loss: 2.4007947517344204, Validation Accuracy: 9.73
+29-Mar-25 12:59:20 - Epoch 3/20, Loss: 2.36311856479277, Validation Accuracy: 9.73
+29-Mar-25 12:59:32 - Epoch 4/20, Loss: 2.34027746063205, Validation Accuracy: 9.73
+29-Mar-25 12:59:45 - Epoch 5/20, Loss: 2.3263566680185113, Validation Accuracy: 9.73
+29-Mar-25 12:59:57 - Epoch 6/20, Loss: 2.3178276542572553, Validation Accuracy: 9.73
+29-Mar-25 13:00:09 - Epoch 7/20, Loss: 2.3125742135377125, Validation Accuracy: 9.73
+29-Mar-25 13:00:22 - Epoch 8/20, Loss: 2.3093206951164373, Validation Accuracy: 9.73
+29-Mar-25 13:00:34 - Epoch 9/20, Loss: 2.3072942945454664, Validation Accuracy: 9.73
+29-Mar-25 13:00:46 - Epoch 10/20, Loss: 2.3060245252355305, Validation Accuracy: 12.82
+29-Mar-25 13:00:58 - Epoch 11/20, Loss: 2.3052235498078737, Validation Accuracy: 9.94
+29-Mar-25 13:01:09 - Epoch 12/20, Loss: 2.3047144190565922, Validation Accuracy: 9.94
+29-Mar-25 13:01:21 - Epoch 13/20, Loss: 2.304387832402077, Validation Accuracy: 9.94
+29-Mar-25 13:01:33 - Epoch 14/20, Loss: 2.30417595833582, Validation Accuracy: 9.94
+29-Mar-25 13:01:46 - Epoch 15/20, Loss: 2.304036507249493, Validation Accuracy: 9.94
+29-Mar-25 13:01:57 - Epoch 16/20, Loss: 2.303942994942781, Validation Accuracy: 9.94
+29-Mar-25 13:02:09 - Epoch 17/20, Loss: 2.3038787622769847, Validation Accuracy: 9.94
+29-Mar-25 13:02:21 - Epoch 18/20, Loss: 2.303833284834337, Validation Accuracy: 9.94
+29-Mar-25 13:02:33 - Epoch 19/20, Loss: 2.303799885365076, Validation Accuracy: 9.94
+29-Mar-25 13:02:45 - Epoch 20/20, Loss: 2.3037743095299974, Validation Accuracy: 9.94
+29-Mar-25 13:02:45 - ------------------------------------------------------------------
+29-Mar-25 13:02:45 - lr:0.01, hidden_sizes:[128, 64], lambda_reg:0.01
+29-Mar-25 13:03:04 - Epoch 1/20, Loss: 2.6211192423658463, Validation Accuracy: 9.73
+29-Mar-25 13:03:22 - Epoch 2/20, Loss: 2.496749602933784, Validation Accuracy: 9.73
+29-Mar-25 13:03:41 - Epoch 3/20, Loss: 2.421744124753001, Validation Accuracy: 9.73
+29-Mar-25 13:04:01 - Epoch 4/20, Loss: 2.3762798240918004, Validation Accuracy: 9.73
+29-Mar-25 13:04:21 - Epoch 5/20, Loss: 2.348579123583943, Validation Accuracy: 9.73
+29-Mar-25 13:04:41 - Epoch 6/20, Loss: 2.3316149574935645, Validation Accuracy: 9.73
+29-Mar-25 13:05:00 - Epoch 7/20, Loss: 2.321172404306395, Validation Accuracy: 9.73
+29-Mar-25 13:05:20 - Epoch 8/20, Loss: 2.3147105961919254, Validation Accuracy: 9.73
+29-Mar-25 13:05:39 - Epoch 9/20, Loss: 2.310690382866141, Validation Accuracy: 12.06
+29-Mar-25 13:05:58 - Epoch 10/20, Loss: 2.3081749894782564, Validation Accuracy: 9.94
+29-Mar-25 13:06:18 - Epoch 11/20, Loss: 2.3065916027273436, Validation Accuracy: 9.94
+29-Mar-25 13:06:38 - Epoch 12/20, Loss: 2.305588329492594, Validation Accuracy: 9.94
+29-Mar-25 13:06:58 - Epoch 13/20, Loss: 2.3049479711430947, Validation Accuracy: 9.94
+29-Mar-25 13:07:18 - Epoch 14/20, Loss: 2.3045358154021183, Validation Accuracy: 9.94
+29-Mar-25 13:07:40 - Epoch 15/20, Loss: 2.3042678924267928, Validation Accuracy: 9.94
+29-Mar-25 13:08:00 - Epoch 16/20, Loss: 2.304091594469861, Validation Accuracy: 9.94
+29-Mar-25 13:08:19 - Epoch 17/20, Loss: 2.3039737937627236, Validation Accuracy: 9.94
+29-Mar-25 13:08:39 - Epoch 18/20, Loss: 2.303893524480168, Validation Accuracy: 9.94
+29-Mar-25 13:08:57 - Epoch 19/20, Loss: 2.3038374534558845, Validation Accuracy: 9.94
+29-Mar-25 13:09:17 - Epoch 20/20, Loss: 2.303797062249981, Validation Accuracy: 9.94
+29-Mar-25 13:09:17 - ------------------------------------------------------------------
+29-Mar-25 13:09:17 - lr:0.01, hidden_sizes:[128, 128], lambda_reg:0.01
+29-Mar-25 13:09:37 - Epoch 1/20, Loss: 2.629088403038187, Validation Accuracy: 9.73
+29-Mar-25 13:09:57 - Epoch 2/20, Loss: 2.5020029266320396, Validation Accuracy: 9.73
+29-Mar-25 13:10:16 - Epoch 3/20, Loss: 2.4254142042555022, Validation Accuracy: 9.73
+29-Mar-25 13:10:36 - Epoch 4/20, Loss: 2.378987331957512, Validation Accuracy: 9.73
+29-Mar-25 13:10:56 - Epoch 5/20, Loss: 2.3506891804817407, Validation Accuracy: 9.73
+29-Mar-25 13:11:15 - Epoch 6/20, Loss: 2.333340668931472, Validation Accuracy: 9.73
+29-Mar-25 13:11:35 - Epoch 7/20, Loss: 2.322626796581142, Validation Accuracy: 9.73
+29-Mar-25 13:11:57 - Epoch 8/20, Loss: 2.315917661329497, Validation Accuracy: 9.73
+29-Mar-25 13:12:17 - Epoch 9/20, Loss: 2.3115195710179814, Validation Accuracy: 9.73
+29-Mar-25 13:12:38 - Epoch 10/20, Loss: 2.307948222430966, Validation Accuracy: 12.11
+29-Mar-25 13:12:59 - Epoch 11/20, Loss: 2.3014528327097663, Validation Accuracy: 15.39
+29-Mar-25 13:13:20 - Epoch 12/20, Loss: 2.2719579983454277, Validation Accuracy: 16.17
+29-Mar-25 13:13:40 - Epoch 13/20, Loss: 2.203441127485974, Validation Accuracy: 18.04
+29-Mar-25 13:14:02 - Epoch 14/20, Loss: 2.1639067826556966, Validation Accuracy: 18.39
+29-Mar-25 13:14:23 - Epoch 15/20, Loss: 2.1538001627953083, Validation Accuracy: 18.56
+29-Mar-25 13:14:43 - Epoch 16/20, Loss: 2.15070892732768, Validation Accuracy: 18.66
+29-Mar-25 13:15:03 - Epoch 17/20, Loss: 2.149162222902916, Validation Accuracy: 18.61
+29-Mar-25 13:15:24 - Epoch 18/20, Loss: 2.1482318964060423, Validation Accuracy: 18.63
+29-Mar-25 13:15:45 - Epoch 19/20, Loss: 2.1476270657175554, Validation Accuracy: 18.59
+29-Mar-25 13:16:06 - Epoch 20/20, Loss: 2.1472078023434045, Validation Accuracy: 18.6
+29-Mar-25 13:16:06 - ------------------------------------------------------------------
+29-Mar-25 13:16:06 - lr:0.01, hidden_sizes:[256, 128], lambda_reg:0.01
+29-Mar-25 13:16:39 - Epoch 1/20, Loss: 2.9507572413024907, Validation Accuracy: 9.73
+29-Mar-25 13:17:11 - Epoch 2/20, Loss: 2.6974572181599634, Validation Accuracy: 9.73
+29-Mar-25 13:17:44 - Epoch 3/20, Loss: 2.5447609991895197, Validation Accuracy: 9.73
+29-Mar-25 13:18:17 - Epoch 4/20, Loss: 2.4521372496102036, Validation Accuracy: 9.73
+29-Mar-25 13:18:50 - Epoch 5/20, Loss: 2.39547575406486, Validation Accuracy: 9.73
+29-Mar-25 13:19:22 - Epoch 6/20, Loss: 2.3597969034027906, Validation Accuracy: 12.629999999999999
+29-Mar-25 13:19:54 - Epoch 7/20, Loss: 2.331099988450788, Validation Accuracy: 15.53
+29-Mar-25 13:20:26 - Epoch 8/20, Loss: 2.269656314771314, Validation Accuracy: 17.16
+29-Mar-25 13:20:58 - Epoch 9/20, Loss: 2.1902317535502034, Validation Accuracy: 18.16
+29-Mar-25 13:21:30 - Epoch 10/20, Loss: 2.160817492095794, Validation Accuracy: 18.54
+29-Mar-25 13:22:02 - Epoch 11/20, Loss: 2.1522722739151816, Validation Accuracy: 18.740000000000002
+29-Mar-25 13:22:35 - Epoch 12/20, Loss: 2.148299669043736, Validation Accuracy: 18.69
+29-Mar-25 13:23:07 - Epoch 13/20, Loss: 2.1459546633666116, Validation Accuracy: 18.69
+29-Mar-25 13:23:40 - Epoch 14/20, Loss: 2.1444825059262986, Validation Accuracy: 18.740000000000002
+29-Mar-25 13:24:11 - Epoch 15/20, Loss: 2.143522348204318, Validation Accuracy: 18.72
+29-Mar-25 13:24:43 - Epoch 16/20, Loss: 2.1428714922753946, Validation Accuracy: 18.7
+29-Mar-25 13:25:13 - Epoch 17/20, Loss: 2.1424117129622804, Validation Accuracy: 18.68
+29-Mar-25 13:25:45 - Epoch 18/20, Loss: 2.1420725502865166, Validation Accuracy: 18.7
+29-Mar-25 13:26:16 - Epoch 19/20, Loss: 2.14181123059075, Validation Accuracy: 18.69
+29-Mar-25 13:26:48 - Epoch 20/20, Loss: 2.141601350801346, Validation Accuracy: 18.709999999999997
+29-Mar-25 13:26:48 - ------------------------------------------------------------------
+29-Mar-25 13:26:48 - lr:0.01, hidden_sizes:[256, 256], lambda_reg:0.01
+29-Mar-25 13:27:21 - Epoch 1/20, Loss: 2.9810525894623026, Validation Accuracy: 9.73
+29-Mar-25 13:27:53 - Epoch 2/20, Loss: 2.716532355308734, Validation Accuracy: 9.92
+29-Mar-25 13:28:28 - Epoch 3/20, Loss: 2.5567437594682083, Validation Accuracy: 13.03
+29-Mar-25 13:29:01 - Epoch 4/20, Loss: 2.457562414596283, Validation Accuracy: 15.32
+29-Mar-25 13:29:36 - Epoch 5/20, Loss: 2.376574534312761, Validation Accuracy: 16.0
+29-Mar-25 13:30:12 - Epoch 6/20, Loss: 2.2625943436823204, Validation Accuracy: 18.09
+29-Mar-25 13:30:47 - Epoch 7/20, Loss: 2.1943655298831257, Validation Accuracy: 18.62
+29-Mar-25 13:31:20 - Epoch 8/20, Loss: 2.1710699574401966, Validation Accuracy: 18.77
+29-Mar-25 13:31:53 - Epoch 9/20, Loss: 2.1600074188906806, Validation Accuracy: 18.9
+29-Mar-25 13:32:26 - Epoch 10/20, Loss: 2.1534644439382116, Validation Accuracy: 18.93
+29-Mar-25 13:32:59 - Epoch 11/20, Loss: 2.1494210474070847, Validation Accuracy: 19.02
+29-Mar-25 13:33:31 - Epoch 12/20, Loss: 2.1468747514811533, Validation Accuracy: 19.03
+29-Mar-25 13:34:04 - Epoch 13/20, Loss: 2.1452417314869794, Validation Accuracy: 19.0
+29-Mar-25 13:34:37 - Epoch 14/20, Loss: 2.144172529848447, Validation Accuracy: 19.08
+29-Mar-25 13:35:10 - Epoch 15/20, Loss: 2.143455159387767, Validation Accuracy: 19.1
+29-Mar-25 13:35:42 - Epoch 16/20, Loss: 2.142959608289836, Validation Accuracy: 19.11
+29-Mar-25 13:36:15 - Epoch 17/20, Loss: 2.14260536702058, Validation Accuracy: 19.139999999999997
+29-Mar-25 13:36:49 - Epoch 18/20, Loss: 2.142342145606541, Validation Accuracy: 19.12
+29-Mar-25 13:37:22 - Epoch 19/20, Loss: 2.142138277381281, Validation Accuracy: 19.13
+29-Mar-25 13:37:55 - Epoch 20/20, Loss: 2.1419736684627826, Validation Accuracy: 19.12
+29-Mar-25 13:37:55 - ------------------------------------------------------------------
+29-Mar-25 13:37:55 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.01
+29-Mar-25 13:38:59 - Epoch 1/20, Loss: 3.6509624384974204, Validation Accuracy: 10.69
+29-Mar-25 13:40:01 - Epoch 2/20, Loss: 3.122531028000008, Validation Accuracy: 14.35
+29-Mar-25 13:41:05 - Epoch 3/20, Loss: 2.796384835147537, Validation Accuracy: 15.68
+29-Mar-25 13:42:08 - Epoch 4/20, Loss: 2.542014647270034, Validation Accuracy: 17.580000000000002
+29-Mar-25 13:43:10 - Epoch 5/20, Loss: 2.3539545085127114, Validation Accuracy: 18.5
+29-Mar-25 13:44:14 - Epoch 6/20, Loss: 2.2645271472686437, Validation Accuracy: 18.82
+29-Mar-25 13:45:18 - Epoch 7/20, Loss: 2.2167356380438057, Validation Accuracy: 19.009999999999998
+29-Mar-25 13:46:22 - Epoch 8/20, Loss: 2.18794870573653, Validation Accuracy: 19.11
+29-Mar-25 13:47:26 - Epoch 9/20, Loss: 2.170155276144984, Validation Accuracy: 19.06
+29-Mar-25 13:48:30 - Epoch 10/20, Loss: 2.1590569955363565, Validation Accuracy: 19.03
+29-Mar-25 13:49:34 - Epoch 11/20, Loss: 2.1520794362865385, Validation Accuracy: 19.07
+29-Mar-25 13:50:39 - Epoch 12/20, Loss: 2.1476549689301834, Validation Accuracy: 19.13
+29-Mar-25 13:51:42 - Epoch 13/20, Loss: 2.144821993179334, Validation Accuracy: 19.11
+29-Mar-25 13:52:46 - Epoch 14/20, Loss: 2.142986949726529, Validation Accuracy: 19.12
+29-Mar-25 13:53:50 - Epoch 15/20, Loss: 2.1417813066891287, Validation Accuracy: 19.12
+29-Mar-25 13:54:54 - Epoch 16/20, Loss: 2.1409749772574416, Validation Accuracy: 19.15
+29-Mar-25 13:55:57 - Epoch 17/20, Loss: 2.140423548126487, Validation Accuracy: 19.15
+29-Mar-25 13:57:00 - Epoch 18/20, Loss: 2.140035913054661, Validation Accuracy: 19.15
+29-Mar-25 13:58:04 - Epoch 19/20, Loss: 2.1397543053512575, Validation Accuracy: 19.16
+29-Mar-25 13:59:08 - Epoch 20/20, Loss: 2.139541912443839, Validation Accuracy: 19.13
+29-Mar-25 13:59:08 - ------------------------------------------------------------------
+29-Mar-25 13:59:08 - lr:0.01, hidden_sizes:[512, 512], lambda_reg:0.01
+29-Mar-25 14:00:14 - Epoch 1/20, Loss: 3.7587114759409537, Validation Accuracy: 9.959999999999999
+29-Mar-25 14:01:20 - Epoch 2/20, Loss: 3.1847577170554318, Validation Accuracy: 15.459999999999999
+29-Mar-25 14:02:26 - Epoch 3/20, Loss: 2.7925553489491444, Validation Accuracy: 17.0
+29-Mar-25 14:03:31 - Epoch 4/20, Loss: 2.5048392310965664, Validation Accuracy: 18.44
+29-Mar-25 14:04:36 - Epoch 5/20, Loss: 2.355588762298443, Validation Accuracy: 18.87
+29-Mar-25 14:05:42 - Epoch 6/20, Loss: 2.2739610033913813, Validation Accuracy: 18.98
+29-Mar-25 14:06:46 - Epoch 7/20, Loss: 2.224766365788531, Validation Accuracy: 19.040000000000003
+29-Mar-25 14:07:52 - Epoch 8/20, Loss: 2.1944620213139285, Validation Accuracy: 19.08
+29-Mar-25 14:08:56 - Epoch 9/20, Loss: 2.1756427788445984, Validation Accuracy: 19.09
+29-Mar-25 14:10:02 - Epoch 10/20, Loss: 2.1638691568343225, Validation Accuracy: 19.0
+29-Mar-25 14:11:07 - Epoch 11/20, Loss: 2.1564431257849037, Validation Accuracy: 18.98
+29-Mar-25 14:12:15 - Epoch 12/20, Loss: 2.1517144466285654, Validation Accuracy: 19.03
+29-Mar-25 14:13:21 - Epoch 13/20, Loss: 2.1486682115257483, Validation Accuracy: 19.02
+29-Mar-25 14:14:26 - Epoch 14/20, Loss: 2.1466771327929997, Validation Accuracy: 18.990000000000002
+29-Mar-25 14:15:32 - Epoch 15/20, Loss: 2.1453517475962047, Validation Accuracy: 18.94
+29-Mar-25 14:16:37 - Epoch 16/20, Loss: 2.1444492399237145, Validation Accuracy: 18.96
+29-Mar-25 14:17:43 - Epoch 17/20, Loss: 2.143817590392092, Validation Accuracy: 18.96
+29-Mar-25 14:18:48 - Epoch 18/20, Loss: 2.143361171099704, Validation Accuracy: 18.93
+29-Mar-25 14:19:53 - Epoch 19/20, Loss: 2.1430194602290413, Validation Accuracy: 18.95
+29-Mar-25 14:20:58 - Epoch 20/20, Loss: 2.1427538444132197, Validation Accuracy: 18.94
+29-Mar-25 14:20:58 - ------------------------------------------------------------------
+
+
+
+
+
+
+
+
+29-Mar-25 15:10:40 - ['leaky_relu', 'leaky_relu']
+29-Mar-25 15:10:40 - lr:0.1, hidden_sizes:[512, 256], lambda_reg:0.1
+29-Mar-25 15:11:42 - Epoch 1/20, Loss: 2.589740454255881, Validation Accuracy: 18.07
+29-Mar-25 15:12:41 - Epoch 2/20, Loss: 2.2301138808863716, Validation Accuracy: 18.25
+29-Mar-25 15:13:41 - Epoch 3/20, Loss: 2.2247837435486257, Validation Accuracy: 18.27
+29-Mar-25 15:14:40 - Epoch 4/20, Loss: 2.2205478384575805, Validation Accuracy: 18.52
+29-Mar-25 15:15:41 - Epoch 5/20, Loss: 2.217271345910899, Validation Accuracy: 18.57
+29-Mar-25 15:16:42 - Epoch 6/20, Loss: 2.2148764393156872, Validation Accuracy: 18.459999999999997
+29-Mar-25 15:17:44 - Epoch 7/20, Loss: 2.212984697335568, Validation Accuracy: 18.54
+29-Mar-25 15:18:44 - Epoch 8/20, Loss: 2.2116800342642, Validation Accuracy: 18.61
+29-Mar-25 15:19:47 - Epoch 9/20, Loss: 2.210571289469013, Validation Accuracy: 18.4
+29-Mar-25 15:20:49 - Epoch 10/20, Loss: 2.2097077883897382, Validation Accuracy: 18.54
+29-Mar-25 15:21:51 - Epoch 11/20, Loss: 2.208929920637823, Validation Accuracy: 18.57
+29-Mar-25 15:22:50 - Epoch 12/20, Loss: 2.208265614749082, Validation Accuracy: 18.54
+29-Mar-25 15:23:51 - Epoch 13/20, Loss: 2.2077386645734696, Validation Accuracy: 18.62
+29-Mar-25 15:24:53 - Epoch 14/20, Loss: 2.2072206018008527, Validation Accuracy: 18.59
+29-Mar-25 15:25:55 - Epoch 15/20, Loss: 2.2068046995411517, Validation Accuracy: 18.61
+29-Mar-25 15:26:55 - Epoch 16/20, Loss: 2.2064010846810205, Validation Accuracy: 18.55
+29-Mar-25 15:27:58 - Epoch 17/20, Loss: 2.2059736026229544, Validation Accuracy: 18.55
+29-Mar-25 15:29:02 - Epoch 18/20, Loss: 2.2055527519524714, Validation Accuracy: 18.6
+29-Mar-25 15:30:05 - Epoch 19/20, Loss: 2.2052020941589943, Validation Accuracy: 18.57
+29-Mar-25 15:31:07 - Epoch 20/20, Loss: 2.204851716720349, Validation Accuracy: 18.56
+29-Mar-25 15:31:07 - ------------------------------------------------------------------
+29-Mar-25 15:31:07 - lr:0.1, hidden_sizes:[512, 256], lambda_reg:0.01
+29-Mar-25 15:32:10 - Epoch 1/20, Loss: 2.267336038821478, Validation Accuracy: 37.75
+29-Mar-25 15:33:13 - Epoch 2/20, Loss: 1.8808549992270445, Validation Accuracy: 39.81
+29-Mar-25 15:34:15 - Epoch 3/20, Loss: 1.87349210006725, Validation Accuracy: 40.48
+29-Mar-25 15:35:18 - Epoch 4/20, Loss: 1.8692242143516493, Validation Accuracy: 40.36
+29-Mar-25 15:36:22 - Epoch 5/20, Loss: 1.8658512772721751, Validation Accuracy: 41.0
+29-Mar-25 15:37:25 - Epoch 6/20, Loss: 1.8622874507334415, Validation Accuracy: 40.72
+29-Mar-25 15:38:27 - Epoch 7/20, Loss: 1.858871881598585, Validation Accuracy: 41.31
+29-Mar-25 15:39:26 - Epoch 8/20, Loss: 1.8554003104156418, Validation Accuracy: 40.86
+29-Mar-25 15:40:28 - Epoch 9/20, Loss: 1.8513959926092538, Validation Accuracy: 41.120000000000005
+29-Mar-25 15:41:31 - Epoch 10/20, Loss: 1.8485477520757456, Validation Accuracy: 41.29
+29-Mar-25 15:42:35 - Epoch 11/20, Loss: 1.8448467409985803, Validation Accuracy: 41.64
+29-Mar-25 15:43:36 - Epoch 12/20, Loss: 1.8421534114017089, Validation Accuracy: 41.67
+29-Mar-25 15:44:39 - Epoch 13/20, Loss: 1.839369580140086, Validation Accuracy: 42.04
+29-Mar-25 15:45:40 - Epoch 14/20, Loss: 1.8372752036874045, Validation Accuracy: 42.21
+29-Mar-25 15:46:42 - Epoch 15/20, Loss: 1.833813597311448, Validation Accuracy: 41.949999999999996
+29-Mar-25 15:47:43 - Epoch 16/20, Loss: 1.8321377161570267, Validation Accuracy: 41.83
+29-Mar-25 15:48:45 - Epoch 17/20, Loss: 1.8292375881818699, Validation Accuracy: 41.730000000000004
+29-Mar-25 15:49:46 - Epoch 18/20, Loss: 1.8272790441697602, Validation Accuracy: 42.28
+29-Mar-25 15:50:50 - Epoch 19/20, Loss: 1.8252268791905317, Validation Accuracy: 42.4
+29-Mar-25 15:51:52 - Epoch 20/20, Loss: 1.8231393942667198, Validation Accuracy: 42.21
+29-Mar-25 15:51:52 - ------------------------------------------------------------------
+29-Mar-25 15:51:52 - lr:0.1, hidden_sizes:[512, 256], lambda_reg:0.001
+29-Mar-25 15:52:54 - Epoch 1/20, Loss: 1.9032038315886743, Validation Accuracy: 42.82
+29-Mar-25 15:53:58 - Epoch 2/20, Loss: 1.6859389884464304, Validation Accuracy: 45.36
+29-Mar-25 15:54:58 - Epoch 3/20, Loss: 1.6075361197711573, Validation Accuracy: 46.83
+29-Mar-25 15:56:02 - Epoch 4/20, Loss: 1.559836075344213, Validation Accuracy: 46.97
+29-Mar-25 15:57:06 - Epoch 5/20, Loss: 1.5319080974057486, Validation Accuracy: 46.79
+29-Mar-25 15:58:10 - Epoch 6/20, Loss: 1.5155834084653685, Validation Accuracy: 47.67
+29-Mar-25 15:59:13 - Epoch 7/20, Loss: 1.5041044007881357, Validation Accuracy: 47.05
+29-Mar-25 16:00:15 - Epoch 8/20, Loss: 1.4944706513657378, Validation Accuracy: 47.589999999999996
+29-Mar-25 16:01:17 - Epoch 9/20, Loss: 1.4909531456206901, Validation Accuracy: 48.17
+29-Mar-25 16:02:20 - Epoch 10/20, Loss: 1.4881491249929237, Validation Accuracy: 47.21
+29-Mar-25 16:03:23 - Epoch 11/20, Loss: 1.4818021024126284, Validation Accuracy: 46.97
+29-Mar-25 16:04:25 - Epoch 12/20, Loss: 1.4826215231364044, Validation Accuracy: 46.93
+29-Mar-25 16:05:28 - Epoch 13/20, Loss: 1.4819315850594232, Validation Accuracy: 48.52
+29-Mar-25 16:06:31 - Epoch 14/20, Loss: 1.475267429864637, Validation Accuracy: 47.15
+29-Mar-25 16:07:35 - Epoch 15/20, Loss: 1.4769968664051234, Validation Accuracy: 47.43
+29-Mar-25 16:08:39 - Epoch 16/20, Loss: 1.472530739325326, Validation Accuracy: 47.43
+29-Mar-25 16:09:43 - Epoch 17/20, Loss: 1.469406086376406, Validation Accuracy: 46.949999999999996
+29-Mar-25 16:10:43 - Epoch 18/20, Loss: 1.4687216992929129, Validation Accuracy: 47.94
+29-Mar-25 16:11:45 - Epoch 19/20, Loss: 1.4644646022319006, Validation Accuracy: 48.16
+29-Mar-25 16:12:47 - Epoch 20/20, Loss: 1.4509777240226822, Validation Accuracy: 48.010000000000005
+29-Mar-25 16:12:47 - ------------------------------------------------------------------
+29-Mar-25 16:12:47 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.1
+29-Mar-25 16:13:48 - Epoch 1/20, Loss: 5.6815353110429845, Validation Accuracy: 16.950000000000003
+29-Mar-25 16:14:50 - Epoch 2/20, Loss: 2.2609620852262786, Validation Accuracy: 17.7
+29-Mar-25 16:15:51 - Epoch 3/20, Loss: 2.225912827083139, Validation Accuracy: 18.099999999999998
+29-Mar-25 16:16:54 - Epoch 4/20, Loss: 2.2207817730499917, Validation Accuracy: 17.990000000000002
+29-Mar-25 16:17:58 - Epoch 5/20, Loss: 2.217794501762154, Validation Accuracy: 18.060000000000002
+29-Mar-25 16:19:01 - Epoch 6/20, Loss: 2.2157548446282855, Validation Accuracy: 18.08
+29-Mar-25 16:20:03 - Epoch 7/20, Loss: 2.21415713055341, Validation Accuracy: 18.02
+29-Mar-25 16:21:06 - Epoch 8/20, Loss: 2.212787469496142, Validation Accuracy: 18.060000000000002
+29-Mar-25 16:22:07 - Epoch 9/20, Loss: 2.211564641534608, Validation Accuracy: 18.01
+29-Mar-25 16:23:08 - Epoch 10/20, Loss: 2.2104425200309583, Validation Accuracy: 18.04
+29-Mar-25 16:24:09 - Epoch 11/20, Loss: 2.2093831818261345, Validation Accuracy: 18.19
+29-Mar-25 16:25:09 - Epoch 12/20, Loss: 2.2083717632716384, Validation Accuracy: 18.25
+29-Mar-25 16:26:10 - Epoch 13/20, Loss: 2.2073977589893037, Validation Accuracy: 18.360000000000003
+29-Mar-25 16:27:09 - Epoch 14/20, Loss: 2.2064523374968363, Validation Accuracy: 18.310000000000002
+29-Mar-25 16:28:09 - Epoch 15/20, Loss: 2.2055416969825377, Validation Accuracy: 18.34
+29-Mar-25 16:29:08 - Epoch 16/20, Loss: 2.2046699875381877, Validation Accuracy: 18.33
+29-Mar-25 16:30:08 - Epoch 17/20, Loss: 2.2038271302910473, Validation Accuracy: 18.29
+29-Mar-25 16:31:06 - Epoch 18/20, Loss: 2.2029961974784484, Validation Accuracy: 18.29
+29-Mar-25 16:32:07 - Epoch 19/20, Loss: 2.2021951230592096, Validation Accuracy: 18.34
+29-Mar-25 16:33:05 - Epoch 20/20, Loss: 2.2014282671378047, Validation Accuracy: 18.35
+29-Mar-25 16:33:05 - ------------------------------------------------------------------
+29-Mar-25 16:33:05 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.01
+29-Mar-25 16:34:07 - Epoch 1/20, Loss: 3.4408672610365865, Validation Accuracy: 31.269999999999996
+29-Mar-25 16:35:11 - Epoch 2/20, Loss: 2.6529791096624367, Validation Accuracy: 38.2
+29-Mar-25 16:36:11 - Epoch 3/20, Loss: 2.2461242520135967, Validation Accuracy: 41.77
+29-Mar-25 16:37:15 - Epoch 4/20, Loss: 2.0038187655344384, Validation Accuracy: 44.28
+29-Mar-25 16:38:19 - Epoch 5/20, Loss: 1.8544649720483823, Validation Accuracy: 45.85
+29-Mar-25 16:39:18 - Epoch 6/20, Loss: 1.7602325664569565, Validation Accuracy: 46.9
+29-Mar-25 16:40:21 - Epoch 7/20, Loss: 1.699930148166027, Validation Accuracy: 47.65
+29-Mar-25 16:41:21 - Epoch 8/20, Loss: 1.660219913823688, Validation Accuracy: 48.27
+29-Mar-25 16:42:22 - Epoch 9/20, Loss: 1.6334235312415735, Validation Accuracy: 48.83
+29-Mar-25 16:43:21 - Epoch 10/20, Loss: 1.6147044880805281, Validation Accuracy: 49.15
+29-Mar-25 16:44:23 - Epoch 11/20, Loss: 1.601590664584138, Validation Accuracy: 49.54
+29-Mar-25 16:45:25 - Epoch 12/20, Loss: 1.5918612678948687, Validation Accuracy: 49.71
+29-Mar-25 16:46:28 - Epoch 13/20, Loss: 1.5844187078335041, Validation Accuracy: 49.85
+29-Mar-25 16:47:29 - Epoch 14/20, Loss: 1.5785581294499509, Validation Accuracy: 50.1
+29-Mar-25 16:48:32 - Epoch 15/20, Loss: 1.5738439333922463, Validation Accuracy: 50.21
+29-Mar-25 16:49:34 - Epoch 16/20, Loss: 1.5700887050151373, Validation Accuracy: 50.519999999999996
+29-Mar-25 16:50:37 - Epoch 17/20, Loss: 1.5667361173940264, Validation Accuracy: 50.629999999999995
+29-Mar-25 16:51:40 - Epoch 18/20, Loss: 1.563824656718611, Validation Accuracy: 50.77
+29-Mar-25 16:52:44 - Epoch 19/20, Loss: 1.5611475000532469, Validation Accuracy: 50.980000000000004
+29-Mar-25 16:53:47 - Epoch 20/20, Loss: 1.55869965863441, Validation Accuracy: 50.92
+29-Mar-25 16:53:47 - ------------------------------------------------------------------
+29-Mar-25 16:53:47 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.001
+29-Mar-25 16:54:50 - Epoch 1/20, Loss: 2.221976691218679, Validation Accuracy: 33.07
+29-Mar-25 16:55:54 - Epoch 2/20, Loss: 1.8760435769488606, Validation Accuracy: 40.72
+29-Mar-25 16:56:59 - Epoch 3/20, Loss: 1.7249520716752773, Validation Accuracy: 44.72
+29-Mar-25 16:58:03 - Epoch 4/20, Loss: 1.622165292197017, Validation Accuracy: 46.910000000000004
+29-Mar-25 16:59:08 - Epoch 5/20, Loss: 1.5439241466880542, Validation Accuracy: 48.65
+29-Mar-25 17:00:12 - Epoch 6/20, Loss: 1.4793844326933292, Validation Accuracy: 49.47
+29-Mar-25 17:01:16 - Epoch 7/20, Loss: 1.42344841480193, Validation Accuracy: 50.1
+29-Mar-25 17:02:18 - Epoch 8/20, Loss: 1.3719607292113802, Validation Accuracy: 50.6
+29-Mar-25 17:03:21 - Epoch 9/20, Loss: 1.3245082950545821, Validation Accuracy: 50.93
+29-Mar-25 17:04:26 - Epoch 10/20, Loss: 1.2798263870499973, Validation Accuracy: 51.28
+29-Mar-25 17:05:29 - Epoch 11/20, Loss: 1.2369532564768673, Validation Accuracy: 51.38
+29-Mar-25 17:06:33 - Epoch 12/20, Loss: 1.196326261453533, Validation Accuracy: 51.49
+29-Mar-25 17:07:37 - Epoch 13/20, Loss: 1.1559856634540806, Validation Accuracy: 51.27
+29-Mar-25 17:08:40 - Epoch 14/20, Loss: 1.1177610054361864, Validation Accuracy: 50.81
+29-Mar-25 17:09:44 - Epoch 15/20, Loss: 1.0811805688741987, Validation Accuracy: 50.74999999999999
+29-Mar-25 17:10:46 - Epoch 16/20, Loss: 1.0448854854506442, Validation Accuracy: 50.44
+29-Mar-25 17:11:46 - Epoch 17/20, Loss: 1.0095261560386006, Validation Accuracy: 50.12
+29-Mar-25 17:12:47 - Epoch 18/20, Loss: 0.9756204954690196, Validation Accuracy: 49.84
+29-Mar-25 17:13:51 - Epoch 19/20, Loss: 0.9421519684185592, Validation Accuracy: 49.559999999999995
+29-Mar-25 17:14:54 - Epoch 20/20, Loss: 0.9105841609522864, Validation Accuracy: 49.3
+29-Mar-25 17:14:54 - ------------------------------------------------------------------
+29-Mar-25 17:14:54 - lr:0.001, hidden_sizes:[512, 256], lambda_reg:0.1
+29-Mar-25 17:15:59 - Epoch 1/20, Loss: 15.77817561942098, Validation Accuracy: 23.84
+29-Mar-25 17:17:04 - Epoch 2/20, Loss: 10.493231975047609, Validation Accuracy: 23.77
+29-Mar-25 17:18:06 - Epoch 3/20, Loss: 7.306867688022733, Validation Accuracy: 19.54
+29-Mar-25 17:19:08 - Epoch 4/20, Loss: 5.3755120433645995, Validation Accuracy: 16.08
+29-Mar-25 17:20:13 - Epoch 5/20, Loss: 4.198648846714933, Validation Accuracy: 15.22
+29-Mar-25 17:21:16 - Epoch 6/20, Loss: 3.477309776685442, Validation Accuracy: 14.899999999999999
+29-Mar-25 17:22:17 - Epoch 7/20, Loss: 3.031332524060818, Validation Accuracy: 14.99
+29-Mar-25 17:23:15 - Epoch 8/20, Loss: 2.7503244536570044, Validation Accuracy: 15.6
+29-Mar-25 17:24:16 - Epoch 9/20, Loss: 2.5679529214861603, Validation Accuracy: 15.299999999999999
+29-Mar-25 17:25:19 - Epoch 10/20, Loss: 2.4498796904139204, Validation Accuracy: 15.58
+29-Mar-25 17:26:22 - Epoch 11/20, Loss: 2.374309440008291, Validation Accuracy: 15.870000000000001
+29-Mar-25 17:27:25 - Epoch 12/20, Loss: 2.326019763239451, Validation Accuracy: 16.09
+29-Mar-25 17:28:24 - Epoch 13/20, Loss: 2.2949733560493852, Validation Accuracy: 16.869999999999997
+29-Mar-25 17:29:25 - Epoch 14/20, Loss: 2.2746536717900274, Validation Accuracy: 17.18
+29-Mar-25 17:30:28 - Epoch 15/20, Loss: 2.2610708577905707, Validation Accuracy: 17.37
+29-Mar-25 17:31:31 - Epoch 16/20, Loss: 2.2517840719506763, Validation Accuracy: 17.47
+29-Mar-25 17:32:34 - Epoch 17/20, Loss: 2.245281431662605, Validation Accuracy: 17.5
+29-Mar-25 17:33:33 - Epoch 18/20, Loss: 2.2406110630672846, Validation Accuracy: 17.53
+29-Mar-25 17:34:35 - Epoch 19/20, Loss: 2.2371640383293716, Validation Accuracy: 17.47
+29-Mar-25 17:35:38 - Epoch 20/20, Loss: 2.2345463400967898, Validation Accuracy: 17.5
+29-Mar-25 17:35:38 - ------------------------------------------------------------------
+29-Mar-25 17:35:38 - lr:0.001, hidden_sizes:[512, 256], lambda_reg:0.01
+29-Mar-25 17:36:42 - Epoch 1/20, Loss: 3.9622602633401125, Validation Accuracy: 20.68
+29-Mar-25 17:37:46 - Epoch 2/20, Loss: 3.8646508177851677, Validation Accuracy: 20.72
+29-Mar-25 17:38:50 - Epoch 3/20, Loss: 3.7449198547090856, Validation Accuracy: 21.68
+29-Mar-25 17:39:54 - Epoch 4/20, Loss: 3.6077950835647163, Validation Accuracy: 23.11
+29-Mar-25 17:40:58 - Epoch 5/20, Loss: 3.471357414217872, Validation Accuracy: 24.6
+29-Mar-25 17:42:01 - Epoch 6/20, Loss: 3.35102355454076, Validation Accuracy: 26.43
+29-Mar-25 17:43:03 - Epoch 7/20, Loss: 3.2492103263909837, Validation Accuracy: 27.800000000000004
+29-Mar-25 17:44:03 - Epoch 8/20, Loss: 3.160605143085559, Validation Accuracy: 29.349999999999998
+29-Mar-25 17:45:08 - Epoch 9/20, Loss: 3.0808262256424896, Validation Accuracy: 30.39
+29-Mar-25 17:46:11 - Epoch 10/20, Loss: 3.007468528542091, Validation Accuracy: 31.540000000000003
+29-Mar-25 17:47:11 - Epoch 11/20, Loss: 2.939332369193694, Validation Accuracy: 32.51
+29-Mar-25 17:48:09 - Epoch 12/20, Loss: 2.8758157036312593, Validation Accuracy: 33.42
+29-Mar-25 17:49:10 - Epoch 13/20, Loss: 2.816442166497926, Validation Accuracy: 34.11
+29-Mar-25 17:50:13 - Epoch 14/20, Loss: 2.7607899153683446, Validation Accuracy: 34.79
+29-Mar-25 17:51:16 - Epoch 15/20, Loss: 2.708515205839003, Validation Accuracy: 35.44
+29-Mar-25 17:52:18 - Epoch 16/20, Loss: 2.659312707170356, Validation Accuracy: 36.16
+29-Mar-25 17:53:22 - Epoch 17/20, Loss: 2.612834833550055, Validation Accuracy: 36.6
+29-Mar-25 17:54:25 - Epoch 18/20, Loss: 2.568763636204982, Validation Accuracy: 37.31
+29-Mar-25 17:55:28 - Epoch 19/20, Loss: 2.5268021933304157, Validation Accuracy: 38.03
+29-Mar-25 17:56:32 - Epoch 20/20, Loss: 2.4867825249371855, Validation Accuracy: 38.33
+29-Mar-25 17:56:32 - ------------------------------------------------------------------
+29-Mar-25 17:56:32 - lr:0.001, hidden_sizes:[512, 256], lambda_reg:0.001
+29-Mar-25 17:57:36 - Epoch 1/20, Loss: 2.466936432170653, Validation Accuracy: 20.349999999999998
+29-Mar-25 17:58:40 - Epoch 2/20, Loss: 2.4440541268927327, Validation Accuracy: 20.990000000000002
+29-Mar-25 17:59:42 - Epoch 3/20, Loss: 2.384557198506248, Validation Accuracy: 21.69
+29-Mar-25 18:00:46 - Epoch 4/20, Loss: 2.298961178232396, Validation Accuracy: 23.34
+29-Mar-25 18:01:50 - Epoch 5/20, Loss: 2.2214813234445074, Validation Accuracy: 25.88
+29-Mar-25 18:02:52 - Epoch 6/20, Loss: 2.1617331659221954, Validation Accuracy: 27.77
+29-Mar-25 18:03:55 - Epoch 7/20, Loss: 2.113799891483792, Validation Accuracy: 29.409999999999997
+29-Mar-25 18:04:55 - Epoch 8/20, Loss: 2.0730835261570517, Validation Accuracy: 31.3
+29-Mar-25 18:05:58 - Epoch 9/20, Loss: 2.0377031126527307, Validation Accuracy: 32.550000000000004
+29-Mar-25 18:07:00 - Epoch 10/20, Loss: 2.006592228459584, Validation Accuracy: 34.02
+29-Mar-25 18:08:01 - Epoch 11/20, Loss: 1.978411579795159, Validation Accuracy: 35.06
+29-Mar-25 18:09:01 - Epoch 12/20, Loss: 1.952321113582551, Validation Accuracy: 35.69
+29-Mar-25 18:10:04 - Epoch 13/20, Loss: 1.9280590530640185, Validation Accuracy: 36.66
+29-Mar-25 18:11:05 - Epoch 14/20, Loss: 1.9053884936334107, Validation Accuracy: 37.46
+29-Mar-25 18:12:05 - Epoch 15/20, Loss: 1.8839654920754376, Validation Accuracy: 38.26
+29-Mar-25 18:13:06 - Epoch 16/20, Loss: 1.8635588137419357, Validation Accuracy: 38.95
+29-Mar-25 18:14:07 - Epoch 17/20, Loss: 1.844033149226359, Validation Accuracy: 39.489999999999995
+29-Mar-25 18:15:06 - Epoch 18/20, Loss: 1.825366975470001, Validation Accuracy: 39.98
+29-Mar-25 18:16:05 - Epoch 19/20, Loss: 1.8075384627089879, Validation Accuracy: 40.589999999999996
+29-Mar-25 18:17:05 - Epoch 20/20, Loss: 1.7905707802283013, Validation Accuracy: 40.94
+29-Mar-25 18:17:05 - ------------------------------------------------------------------
+
+
+
+
+
+
+30-Mar-25 14:45:11 - ['leaky_relu', 'leaky_relu']
+30-Mar-25 14:45:11 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.01, batch_size:8
+30-Mar-25 14:48:11 - Epoch 1/20, Loss: 2.6374646932039854, Validation Accuracy: 39.67
+30-Mar-25 14:51:17 - Epoch 2/20, Loss: 1.8563999416135712, Validation Accuracy: 43.19
+30-Mar-25 14:54:25 - Epoch 3/20, Loss: 1.746955687943218, Validation Accuracy: 44.21
+30-Mar-25 14:57:34 - Epoch 4/20, Loss: 1.7254337616750046, Validation Accuracy: 44.79
+30-Mar-25 15:01:08 - Epoch 5/20, Loss: 1.718074400427648, Validation Accuracy: 44.91
+30-Mar-25 15:09:41 - Epoch 6/20, Loss: 1.7143034262486507, Validation Accuracy: 45.22
+30-Mar-25 15:18:12 - Epoch 7/20, Loss: 1.710969940008083, Validation Accuracy: 45.33
+30-Mar-25 15:26:59 - Epoch 8/20, Loss: 1.7081068701469493, Validation Accuracy: 45.64
+30-Mar-25 15:35:55 - Epoch 9/20, Loss: 1.7060146853896225, Validation Accuracy: 45.68
+30-Mar-25 15:44:34 - Epoch 10/20, Loss: 1.7034833615921194, Validation Accuracy: 45.739999999999995
+30-Mar-25 15:53:19 - Epoch 11/20, Loss: 1.7015563038157357, Validation Accuracy: 45.72
+30-Mar-25 16:02:05 - Epoch 12/20, Loss: 1.6993744579804664, Validation Accuracy: 45.739999999999995
+30-Mar-25 16:08:10 - Epoch 13/20, Loss: 1.6977643667367588, Validation Accuracy: 45.989999999999995
+30-Mar-25 16:11:21 - Epoch 14/20, Loss: 1.6954853697865535, Validation Accuracy: 46.06
+30-Mar-25 16:14:40 - Epoch 15/20, Loss: 1.694068210977606, Validation Accuracy: 45.98
+30-Mar-25 16:17:52 - Epoch 16/20, Loss: 1.6923630389689017, Validation Accuracy: 46.36
+30-Mar-25 16:21:01 - Epoch 17/20, Loss: 1.6904458770750928, Validation Accuracy: 46.339999999999996
+30-Mar-25 16:24:17 - Epoch 18/20, Loss: 1.6887077157511257, Validation Accuracy: 46.379999999999995
+30-Mar-25 16:27:32 - Epoch 19/20, Loss: 1.6871352710205676, Validation Accuracy: 46.31
+30-Mar-25 16:30:39 - Epoch 20/20, Loss: 1.6853000182732172, Validation Accuracy: 46.26
+30-Mar-25 16:30:39 - ------------------------------------------------------------------
+30-Mar-25 16:30:39 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.01, batch_size:16
+30-Mar-25 16:32:24 - Epoch 1/20, Loss: 3.059105771297654, Validation Accuracy: 37.05
+30-Mar-25 16:34:08 - Epoch 2/20, Loss: 2.154674109728702, Validation Accuracy: 42.36
+30-Mar-25 16:35:54 - Epoch 3/20, Loss: 1.8484731311248281, Validation Accuracy: 44.84
+30-Mar-25 16:37:39 - Epoch 4/20, Loss: 1.7300190231568306, Validation Accuracy: 46.23
+30-Mar-25 16:39:20 - Epoch 5/20, Loss: 1.6803903671273004, Validation Accuracy: 46.9
+30-Mar-25 16:41:02 - Epoch 6/20, Loss: 1.6576656467341047, Validation Accuracy: 47.32
+30-Mar-25 16:42:45 - Epoch 7/20, Loss: 1.6457952681021766, Validation Accuracy: 47.53
+30-Mar-25 16:44:31 - Epoch 8/20, Loss: 1.6388689658648672, Validation Accuracy: 48.0
+30-Mar-25 16:46:17 - Epoch 9/20, Loss: 1.6340038477091432, Validation Accuracy: 48.230000000000004
+30-Mar-25 16:48:02 - Epoch 10/20, Loss: 1.630577274670891, Validation Accuracy: 48.66
+30-Mar-25 16:49:46 - Epoch 11/20, Loss: 1.6276194425257584, Validation Accuracy: 48.59
+30-Mar-25 16:51:27 - Epoch 12/20, Loss: 1.6249910829859509, Validation Accuracy: 48.94
+30-Mar-25 16:53:09 - Epoch 13/20, Loss: 1.6228478216060649, Validation Accuracy: 49.04
+30-Mar-25 16:54:47 - Epoch 14/20, Loss: 1.6207947928353603, Validation Accuracy: 49.13
+30-Mar-25 16:56:26 - Epoch 15/20, Loss: 1.6191398386312175, Validation Accuracy: 49.28
+30-Mar-25 16:58:11 - Epoch 16/20, Loss: 1.6175188275503465, Validation Accuracy: 49.4
+30-Mar-25 16:59:57 - Epoch 17/20, Loss: 1.6156134037989751, Validation Accuracy: 49.43
+30-Mar-25 17:01:44 - Epoch 18/20, Loss: 1.6139559183009118, Validation Accuracy: 49.419999999999995
+30-Mar-25 17:03:26 - Epoch 19/20, Loss: 1.6121513652877828, Validation Accuracy: 49.51
+30-Mar-25 17:05:10 - Epoch 20/20, Loss: 1.6106312798517826, Validation Accuracy: 49.57
+30-Mar-25 17:05:10 - ------------------------------------------------------------------
+30-Mar-25 17:05:10 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.01, batch_size:32
+30-Mar-25 17:06:12 - Epoch 1/20, Loss: 3.44239237763497, Validation Accuracy: 31.4
+30-Mar-25 17:07:12 - Epoch 2/20, Loss: 2.652071587677124, Validation Accuracy: 38.46
+30-Mar-25 17:08:14 - Epoch 3/20, Loss: 2.244368001530119, Validation Accuracy: 41.72
+30-Mar-25 17:09:15 - Epoch 4/20, Loss: 2.003934773782521, Validation Accuracy: 44.09
+30-Mar-25 17:10:13 - Epoch 5/20, Loss: 1.8544541278616022, Validation Accuracy: 45.79
+30-Mar-25 17:11:12 - Epoch 6/20, Loss: 1.760506435325388, Validation Accuracy: 47.03
+30-Mar-25 17:12:10 - Epoch 7/20, Loss: 1.7002206514678055, Validation Accuracy: 47.5
+30-Mar-25 17:13:08 - Epoch 8/20, Loss: 1.6606500215355078, Validation Accuracy: 48.209999999999994
+30-Mar-25 17:14:04 - Epoch 9/20, Loss: 1.6340458927615686, Validation Accuracy: 48.72
+30-Mar-25 17:14:58 - Epoch 10/20, Loss: 1.6156254580470275, Validation Accuracy: 49.0
+30-Mar-25 17:15:52 - Epoch 11/20, Loss: 1.6024245092156675, Validation Accuracy: 49.5
+30-Mar-25 17:16:47 - Epoch 12/20, Loss: 1.592772861126047, Validation Accuracy: 49.66
+30-Mar-25 17:17:41 - Epoch 13/20, Loss: 1.5854353829579522, Validation Accuracy: 49.86
+30-Mar-25 17:18:38 - Epoch 14/20, Loss: 1.5796229423447048, Validation Accuracy: 50.0
+30-Mar-25 17:19:34 - Epoch 15/20, Loss: 1.5750204026414336, Validation Accuracy: 50.339999999999996
+30-Mar-25 17:20:31 - Epoch 16/20, Loss: 1.571134568714647, Validation Accuracy: 50.370000000000005
+30-Mar-25 17:21:25 - Epoch 17/20, Loss: 1.567836796451724, Validation Accuracy: 50.5
+30-Mar-25 17:22:20 - Epoch 18/20, Loss: 1.5647798890890576, Validation Accuracy: 50.77
+30-Mar-25 17:23:15 - Epoch 19/20, Loss: 1.5621041529800725, Validation Accuracy: 50.870000000000005
+30-Mar-25 17:24:10 - Epoch 20/20, Loss: 1.5597370726977957, Validation Accuracy: 50.970000000000006
+30-Mar-25 17:24:10 - ------------------------------------------------------------------
+30-Mar-25 17:24:10 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.01, batch_size:64
+30-Mar-25 17:24:45 - Epoch 1/20, Loss: 3.728048994833217, Validation Accuracy: 24.45
+30-Mar-25 17:25:19 - Epoch 2/20, Loss: 3.1488579280838844, Validation Accuracy: 31.680000000000003
+30-Mar-25 17:25:54 - Epoch 3/20, Loss: 2.781657205336121, Validation Accuracy: 35.82
+30-Mar-25 17:26:28 - Epoch 4/20, Loss: 2.5187035099095274, Validation Accuracy: 38.48
+30-Mar-25 17:27:02 - Epoch 5/20, Loss: 2.3176095672058, Validation Accuracy: 40.660000000000004
+30-Mar-25 17:27:35 - Epoch 6/20, Loss: 2.1628316705954416, Validation Accuracy: 41.959999999999994
+30-Mar-25 17:28:09 - Epoch 7/20, Loss: 2.041574678002916, Validation Accuracy: 43.22
+30-Mar-25 17:28:43 - Epoch 8/20, Loss: 1.9455056373510098, Validation Accuracy: 44.58
+30-Mar-25 17:29:16 - Epoch 9/20, Loss: 1.8691025187332693, Validation Accuracy: 45.57
+30-Mar-25 17:29:50 - Epoch 10/20, Loss: 1.8080763571756768, Validation Accuracy: 46.589999999999996
+30-Mar-25 17:30:24 - Epoch 11/20, Loss: 1.7591532472500162, Validation Accuracy: 47.31
+30-Mar-25 17:30:58 - Epoch 12/20, Loss: 1.719830957219626, Validation Accuracy: 47.79
+30-Mar-25 17:31:33 - Epoch 13/20, Loss: 1.6878684797318142, Validation Accuracy: 48.19
+30-Mar-25 17:32:07 - Epoch 14/20, Loss: 1.661778080584059, Validation Accuracy: 48.59
+30-Mar-25 17:32:41 - Epoch 15/20, Loss: 1.6402469085566813, Validation Accuracy: 49.09
+30-Mar-25 17:33:15 - Epoch 16/20, Loss: 1.6223239472979412, Validation Accuracy: 49.35
+30-Mar-25 17:33:49 - Epoch 17/20, Loss: 1.6074356820565765, Validation Accuracy: 49.49
+30-Mar-25 17:34:22 - Epoch 18/20, Loss: 1.5948391603411445, Validation Accuracy: 49.71
+30-Mar-25 17:34:55 - Epoch 19/20, Loss: 1.5842334826187092, Validation Accuracy: 49.96
+30-Mar-25 17:35:28 - Epoch 20/20, Loss: 1.5750593768001693, Validation Accuracy: 50.160000000000004
+30-Mar-25 17:35:28 - ------------------------------------------------------------------
+30-Mar-25 17:35:28 - lr:0.01, hidden_sizes:[512, 256], lambda_reg:0.01, batch_size:128
+30-Mar-25 17:35:53 - Epoch 1/20, Loss: 3.887765421881855, Validation Accuracy: 22.66
+30-Mar-25 17:36:18 - Epoch 2/20, Loss: 3.5717320290926637, Validation Accuracy: 25.03
+30-Mar-25 17:36:43 - Epoch 3/20, Loss: 3.263953096885795, Validation Accuracy: 28.9
+30-Mar-25 17:37:08 - Epoch 4/20, Loss: 3.0406053068359244, Validation Accuracy: 32.16
+30-Mar-25 17:37:34 - Epoch 5/20, Loss: 2.8616366236661768, Validation Accuracy: 34.63
+30-Mar-25 17:37:59 - Epoch 6/20, Loss: 2.7100198076657542, Validation Accuracy: 36.18
+30-Mar-25 17:38:24 - Epoch 7/20, Loss: 2.5794686241354805, Validation Accuracy: 37.5
+30-Mar-25 17:38:49 - Epoch 8/20, Loss: 2.466450320708409, Validation Accuracy: 38.769999999999996
+30-Mar-25 17:39:13 - Epoch 9/20, Loss: 2.3682799748740764, Validation Accuracy: 39.71
+30-Mar-25 17:39:38 - Epoch 10/20, Loss: 2.2823803569964465, Validation Accuracy: 40.589999999999996
+30-Mar-25 17:40:03 - Epoch 11/20, Loss: 2.206605859395503, Validation Accuracy: 41.370000000000005
+30-Mar-25 17:40:28 - Epoch 12/20, Loss: 2.1392668023392987, Validation Accuracy: 42.27
+30-Mar-25 17:40:51 - Epoch 13/20, Loss: 2.079159677422797, Validation Accuracy: 42.95
+30-Mar-25 17:41:17 - Epoch 14/20, Loss: 2.02528885077443, Validation Accuracy: 43.68
+30-Mar-25 17:41:41 - Epoch 15/20, Loss: 1.9770521759129616, Validation Accuracy: 44.25
+30-Mar-25 17:42:05 - Epoch 16/20, Loss: 1.9337607489954693, Validation Accuracy: 44.84
+30-Mar-25 17:42:29 - Epoch 17/20, Loss: 1.895022524255928, Validation Accuracy: 45.34
+30-Mar-25 17:42:54 - Epoch 18/20, Loss: 1.8603507726374215, Validation Accuracy: 45.71
+30-Mar-25 17:43:18 - Epoch 19/20, Loss: 1.8292406506752967, Validation Accuracy: 46.12
+30-Mar-25 17:43:43 - Epoch 20/20, Loss: 1.8013057853944638, Validation Accuracy: 46.64
+30-Mar-25 17:43:43 - ------------------------------------------------------------------
