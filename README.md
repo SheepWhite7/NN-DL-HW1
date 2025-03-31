@@ -37,15 +37,15 @@ pip install matplotlib
   - cnn.py  # 卷积神经网络
   - nn.py  # 神经网络
   - config.yaml  # 相关配置
-- image # 可视化图像
-- train_nn.py # nn模型训练主程序
-- train_cnn.py # cnn模型训练主程序
+- image  # 可视化图像
+- train_nn.py  # nn模型训练主程序
+- train_cnn.py  # cnn模型训练主程序
 - cnn_cifar10.pth  # 保存cnn模型参数
 - test.py # 模型测试主程序
-- data_loader.py # 读取数据集的函数
-- para_search.py # 模型参数探索主程序
-- para_search.log # 模型参数探索的日志记录
-- visualize.py # 可视化主程序
+- data_loader.py  # 读取数据集的函数
+- para_search.py  # 模型参数探索主程序
+- para_search.log  # 模型参数探索的日志记录
+- visualize.py  # 可视化主程序
 ```
 
 ## 一、 模型的训练与测试
